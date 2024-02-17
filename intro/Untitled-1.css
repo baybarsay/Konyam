@@ -1,0 +1,3672 @@
+<>
+  <meta charSet="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+  />
+  <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="theme-color" content="#255944" />
+  <title>Karatay Belediyesi | Ana Sayfa</title>
+  <meta
+    name="description"
+    content="Karatay Belediyesi resmi web sitesi üzerinden tüm e-belediye hizmetlerimize ulaşabilir ve tahsilat işlemlerinizi gerçekleştirebilirsiniz."
+  />
+  <meta property="og:title" content="Karatay Belediyesi" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.karatay.bel.tr/" />
+  <meta
+    property="og:image"
+    content="https://www.karatay.bel.tr/assets/img/twitter-image.png"
+  />
+  <meta property="og:site_name" content="Karatay Belediyesi" />
+  <meta
+    property="og:description"
+    content="Karatay Belediyesi resmi web sitesi üzerinden tüm e-belediye hizmetlerine ulaşabilir ve tahsilat işlemlerinizi gerçekleştirebilirsiniz."
+  />
+  <meta
+    property="og:image:secure_url"
+    content="https://www.karatay.bel.tr/assets/img/twitter-image.png"
+  />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@KaratayBelediye" />
+  <meta name="twitter:creator" content="@KaratayBelediye" />
+  <meta name="twitter:domain" content="https://www.karatay.bel.tr/" />
+  <meta name="twitter:title" content="Karatay Belediyesi" />
+  <meta
+    name="twitter:description"
+    content="Karatay Belediyesi resmi web sitesi üzerinden tüm e-belediye hizmetlerine ulaşabilir ve tahsilat işlemlerinizi gerçekleştirebilirsiniz."
+  />
+  <meta
+    name="twitter:image"
+    content="https://www.karatay.bel.tr/assets/img/twitter-image.png"
+  />
+  {/* Stylesheets */}
+  <link
+    rel="stylesheet"
+    href="https://www.karatay.bel.tr/assets/css/bootstrap.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://www.karatay.bel.tr/assets/css/bootstrap-datepicker3.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://www.karatay.bel.tr/assets/css/main.min.css?v=4"
+  />
+  <link
+    rel="stylesheet"
+    href="https://www.karatay.bel.tr/assets/plugins/swiper/css/swiper.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://www.karatay.bel.tr/assets/plugins/popup/magnific-popup.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://www.karatay.bel.tr/assets/plugins/menu/mmenu.css"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="https://www.karatay.bel.tr/assets/img/favicon-32x32.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="https://www.karatay.bel.tr/assets/img/favicon-16x16.png"
+  />
+  <link
+    rel="manifest"
+    href="https://www.karatay.bel.tr/assets/img/site.webmanifest"
+  />
+  <link
+    rel="mask-icon"
+    href="https://www.karatay.bel.tr/assets/img/safari-pinned-tab.svg"
+    color="#255944"
+  />
+  <link
+    rel="shortcut icon"
+    href="https://www.karatay.bel.tr/assets/img/favicon.ico"
+  />
+  <meta name="msapplication-TileColor" content="#255944" />
+  <meta
+    name="msapplication-config"
+    content="https://www.karatay.bel.tr/assets/img/browserconfig.xml"
+  />
+  <meta name="theme-color" content="#ffffff" />
+  {/* Global site tag (gtag.js) - Google Analytics */}
+  <style
+    dangerouslySetInnerHTML={{
+      __html:
+        '.swal2-popup.swal2-toast{flex-direction:row;align-items:center;width:auto;padding:.625em;overflow-y:hidden;background:#fff;box-shadow:0 0 .625em #d9d9d9}.swal2-popup.swal2-toast .swal2-header{flex-direction:row;padding:0}.swal2-popup.swal2-toast .swal2-title{flex-grow:1;justify-content:flex-start;margin:0 .6em;font-size:1em}.swal2-popup.swal2-toast .swal2-footer{margin:.5em 0 0;padding:.5em 0 0;font-size:.8em}.swal2-popup.swal2-toast .swal2-close{position:static;width:.8em;height:.8em;line-height:.8}.swal2-popup.swal2-toast .swal2-content{justify-content:flex-start;padding:0;font-size:1em}.swal2-popup.swal2-toast .swal2-icon{width:2em;min-width:2em;height:2em;margin:0}.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:1.8em;font-weight:700}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{font-size:.25em}}.swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line]{top:.875em;width:1.375em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:.3125em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:.3125em}.swal2-popup.swal2-toast .swal2-actions{flex-basis:auto!important;width:auto;height:auto;margin:0 .3125em}.swal2-popup.swal2-toast .swal2-styled{margin:0 .3125em;padding:.3125em .625em;font-size:1em}.swal2-popup.swal2-toast .swal2-styled:focus{box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(50,100,150,.4)}.swal2-popup.swal2-toast .swal2-success{border-color:#a5dc86}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line]{position:absolute;width:1.6em;height:3em;transform:rotate(45deg);border-radius:50%}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.8em;left:-.5em;transform:rotate(-45deg);transform-origin:2em 2em;border-radius:4em 0 0 4em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.25em;left:.9375em;transform-origin:0 1.5em;border-radius:0 4em 4em 0}.swal2-popup.swal2-toast .swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-success .swal2-success-fix{top:0;left:.4375em;width:.4375em;height:2.6875em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line]{height:.3125em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=tip]{top:1.125em;left:.1875em;width:.75em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=long]{top:.9375em;right:.1875em;width:1.375em}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-tip{-webkit-animation:swal2-toast-animate-success-line-tip .75s;animation:swal2-toast-animate-success-line-tip .75s}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-long{-webkit-animation:swal2-toast-animate-success-line-long .75s;animation:swal2-toast-animate-success-line-long .75s}.swal2-popup.swal2-toast.swal2-show{-webkit-animation:swal2-toast-show .5s;animation:swal2-toast-show .5s}.swal2-popup.swal2-toast.swal2-hide{-webkit-animation:swal2-toast-hide .1s forwards;animation:swal2-toast-hide .1s forwards}.swal2-container{display:flex;position:fixed;z-index:1060;top:0;right:0;bottom:0;left:0;flex-direction:row;align-items:center;justify-content:center;padding:.625em;overflow-x:hidden;transition:background-color .1s;-webkit-overflow-scrolling:touch}.swal2-container.swal2-backdrop-show,.swal2-container.swal2-noanimation{background:rgba(0,0,0,.4)}.swal2-container.swal2-backdrop-hide{background:0 0!important}.swal2-container.swal2-top{align-items:flex-start}.swal2-container.swal2-top-left,.swal2-container.swal2-top-start{align-items:flex-start;justify-content:flex-start}.swal2-container.swal2-top-end,.swal2-container.swal2-top-right{align-items:flex-start;justify-content:flex-end}.swal2-container.swal2-center{align-items:center}.swal2-container.swal2-center-left,.swal2-container.swal2-center-start{align-items:center;justify-content:flex-start}.swal2-container.swal2-center-end,.swal2-container.swal2-center-right{align-items:center;justify-content:flex-end}.swal2-container.swal2-bottom{align-items:flex-end}.swal2-container.swal2-bottom-left,.swal2-container.swal2-bottom-start{align-items:flex-end;justify-content:flex-start}.swal2-container.swal2-bottom-end,.swal2-container.swal2-bottom-right{align-items:flex-end;justify-content:flex-end}.swal2-container.swal2-bottom-end>:first-child,.swal2-container.swal2-bottom-left>:first-child,.swal2-container.swal2-bottom-right>:first-child,.swal2-container.swal2-bottom-start>:first-child,.swal2-container.swal2-bottom>:first-child{margin-top:auto}.swal2-container.swal2-grow-fullscreen>.swal2-modal{display:flex!important;flex:1;align-self:stretch;justify-content:center}.swal2-container.swal2-grow-row>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-grow-column{flex:1;flex-direction:column}.swal2-container.swal2-grow-column.swal2-bottom,.swal2-container.swal2-grow-column.swal2-center,.swal2-container.swal2-grow-column.swal2-top{align-items:center}.swal2-container.swal2-grow-column.swal2-bottom-left,.swal2-container.swal2-grow-column.swal2-bottom-start,.swal2-container.swal2-grow-column.swal2-center-left,.swal2-container.swal2-grow-column.swal2-center-start,.swal2-container.swal2-grow-column.swal2-top-left,.swal2-container.swal2-grow-column.swal2-top-start{align-items:flex-start}.swal2-container.swal2-grow-column.swal2-bottom-end,.swal2-container.swal2-grow-column.swal2-bottom-right,.swal2-container.swal2-grow-column.swal2-center-end,.swal2-container.swal2-grow-column.swal2-center-right,.swal2-container.swal2-grow-column.swal2-top-end,.swal2-container.swal2-grow-column.swal2-top-right{align-items:flex-end}.swal2-container.swal2-grow-column>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-no-transition{transition:none!important}.swal2-container:not(.swal2-top):not(.swal2-top-start):not(.swal2-top-end):not(.swal2-top-left):not(.swal2-top-right):not(.swal2-center-start):not(.swal2-center-end):not(.swal2-center-left):not(.swal2-center-right):not(.swal2-bottom):not(.swal2-bottom-start):not(.swal2-bottom-end):not(.swal2-bottom-left):not(.swal2-bottom-right):not(.swal2-grow-fullscreen)>.swal2-modal{margin:auto}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-container .swal2-modal{margin:0!important}}.swal2-popup{display:none;position:relative;box-sizing:border-box;flex-direction:column;justify-content:center;width:32em;max-width:100%;padding:1.25em;border:none;border-radius:.3125em;background:#fff;font-family:inherit;font-size:1rem}.swal2-popup:focus{outline:0}.swal2-popup.swal2-loading{overflow-y:hidden}.swal2-header{display:flex;flex-direction:column;align-items:center;padding:0 1.8em}.swal2-title{position:relative;max-width:100%;margin:0 0 .4em;padding:0;color:#595959;font-size:1.875em;font-weight:600;text-align:center;text-transform:none;word-wrap:break-word}.swal2-actions{display:flex;z-index:1;flex-wrap:wrap;align-items:center;justify-content:center;width:100%;margin:1.25em auto 0}.swal2-actions:not(.swal2-loading) .swal2-styled[disabled]{opacity:.4}.swal2-actions:not(.swal2-loading) .swal2-styled:hover{background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1))}.swal2-actions:not(.swal2-loading) .swal2-styled:active{background-image:linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2))}.swal2-actions.swal2-loading .swal2-styled.swal2-confirm{box-sizing:border-box;width:2.5em;height:2.5em;margin:.46875em;padding:0;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border:.25em solid transparent;border-radius:100%;border-color:transparent;background-color:transparent!important;color:transparent!important;cursor:default;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-actions.swal2-loading .swal2-styled.swal2-cancel{margin-right:30px;margin-left:30px}.swal2-actions.swal2-loading :not(.swal2-styled).swal2-confirm::after{content:"";display:inline-block;width:15px;height:15px;margin-left:5px;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border:3px solid #999;border-radius:50%;border-right-color:transparent;box-shadow:1px 1px 1px #fff}.swal2-styled{margin:.3125em;padding:.625em 2em;box-shadow:none;font-weight:500}.swal2-styled:not([disabled]){cursor:pointer}.swal2-styled.swal2-confirm{border:0;border-radius:.25em;background:initial;background-color:#3085d6;color:#fff;font-size:1.0625em}.swal2-styled.swal2-cancel{border:0;border-radius:.25em;background:initial;background-color:#aaa;color:#fff;font-size:1.0625em}.swal2-styled:focus{outline:0;box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(50,100,150,.4)}.swal2-styled::-moz-focus-inner{border:0}.swal2-footer{justify-content:center;margin:1.25em 0 0;padding:1em 0 0;border-top:1px solid #eee;color:#545454;font-size:1em}.swal2-timer-progress-bar-container{position:absolute;right:0;bottom:0;left:0;height:.25em;overflow:hidden;border-bottom-right-radius:.3125em;border-bottom-left-radius:.3125em}.swal2-timer-progress-bar{width:100%;height:.25em;background:rgba(0,0,0,.2)}.swal2-image{max-width:100%;margin:1.25em auto}.swal2-close{position:absolute;z-index:2;top:0;right:0;align-items:center;justify-content:center;width:1.2em;height:1.2em;padding:0;overflow:hidden;transition:color .1s ease-out;border:none;border-radius:0;background:0 0;color:#ccc;font-family:serif;font-size:2.5em;line-height:1.2;cursor:pointer}.swal2-close:hover{transform:none;background:0 0;color:#f27474}.swal2-close::-moz-focus-inner{border:0}.swal2-content{z-index:1;justify-content:center;margin:0;padding:0 1.6em;color:#545454;font-size:1.125em;font-weight:400;line-height:normal;text-align:center;word-wrap:break-word}.swal2-checkbox,.swal2-file,.swal2-input,.swal2-radio,.swal2-select,.swal2-textarea{margin:1em auto}.swal2-file,.swal2-input,.swal2-textarea{box-sizing:border-box;width:100%;transition:border-color .3s,box-shadow .3s;border:1px solid #d9d9d9;border-radius:.1875em;background:inherit;box-shadow:inset 0 1px 1px rgba(0,0,0,.06);color:inherit;font-size:1.125em}.swal2-file.swal2-inputerror,.swal2-input.swal2-inputerror,.swal2-textarea.swal2-inputerror{border-color:#f27474!important;box-shadow:0 0 2px #f27474!important}.swal2-file:focus,.swal2-input:focus,.swal2-textarea:focus{border:1px solid #b4dbed;outline:0;box-shadow:0 0 3px #c4e6f5}.swal2-file::-moz-placeholder,.swal2-input::-moz-placeholder,.swal2-textarea::-moz-placeholder{color:#ccc}.swal2-file:-ms-input-placeholder,.swal2-input:-ms-input-placeholder,.swal2-textarea:-ms-input-placeholder{color:#ccc}.swal2-file::-ms-input-placeholder,.swal2-input::-ms-input-placeholder,.swal2-textarea::-ms-input-placeholder{color:#ccc}.swal2-file::placeholder,.swal2-input::placeholder,.swal2-textarea::placeholder{color:#ccc}.swal2-range{margin:1em auto;background:#fff}.swal2-range input{width:80%}.swal2-range output{width:20%;color:inherit;font-weight:600;text-align:center}.swal2-range input,.swal2-range output{height:2.625em;padding:0;font-size:1.125em;line-height:2.625em}.swal2-input{height:2.625em;padding:0 .75em}.swal2-input[type=number]{max-width:10em}.swal2-file{background:inherit;font-size:1.125em}.swal2-textarea{height:6.75em;padding:.75em}.swal2-select{min-width:50%;max-width:100%;padding:.375em .625em;background:inherit;color:inherit;font-size:1.125em}.swal2-checkbox,.swal2-radio{align-items:center;justify-content:center;background:#fff;color:inherit}.swal2-checkbox label,.swal2-radio label{margin:0 .6em;font-size:1.125em}.swal2-checkbox input,.swal2-radio input{margin:0 .4em}.swal2-validation-message{display:none;align-items:center;justify-content:center;padding:.625em;overflow:hidden;background:#f0f0f0;color:#666;font-size:1em;font-weight:300}.swal2-validation-message::before{content:"!";display:inline-block;width:1.5em;min-width:1.5em;height:1.5em;margin:0 .625em;border-radius:50%;background-color:#f27474;color:#fff;font-weight:600;line-height:1.5em;text-align:center}.swal2-icon{position:relative;box-sizing:content-box;justify-content:center;width:5em;height:5em;margin:1.25em auto 1.875em;border:.25em solid transparent;border-radius:50%;font-family:inherit;line-height:5em;cursor:default;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:3.75em}.swal2-icon.swal2-error{border-color:#f27474;color:#f27474}.swal2-icon.swal2-error .swal2-x-mark{position:relative;flex-grow:1}.swal2-icon.swal2-error [class^=swal2-x-mark-line]{display:block;position:absolute;top:2.3125em;width:2.9375em;height:.3125em;border-radius:.125em;background-color:#f27474}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:1.0625em;transform:rotate(45deg)}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:1em;transform:rotate(-45deg)}.swal2-icon.swal2-error.swal2-icon-show{-webkit-animation:swal2-animate-error-icon .5s;animation:swal2-animate-error-icon .5s}.swal2-icon.swal2-error.swal2-icon-show .swal2-x-mark{-webkit-animation:swal2-animate-error-x-mark .5s;animation:swal2-animate-error-x-mark .5s}.swal2-icon.swal2-warning{border-color:#facea8;color:#f8bb86}.swal2-icon.swal2-info{border-color:#9de0f6;color:#3fc3ee}.swal2-icon.swal2-question{border-color:#c9dae1;color:#87adbd}.swal2-icon.swal2-success{border-color:#a5dc86;color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-circular-line]{position:absolute;width:3.75em;height:7.5em;transform:rotate(45deg);border-radius:50%}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.4375em;left:-2.0635em;transform:rotate(-45deg);transform-origin:3.75em 3.75em;border-radius:7.5em 0 0 7.5em}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.6875em;left:1.875em;transform:rotate(-45deg);transform-origin:0 3.75em;border-radius:0 7.5em 7.5em 0}.swal2-icon.swal2-success .swal2-success-ring{position:absolute;z-index:2;top:-.25em;left:-.25em;box-sizing:content-box;width:100%;height:100%;border:.25em solid rgba(165,220,134,.3);border-radius:50%}.swal2-icon.swal2-success .swal2-success-fix{position:absolute;z-index:1;top:.5em;left:1.625em;width:.4375em;height:5.625em;transform:rotate(-45deg)}.swal2-icon.swal2-success [class^=swal2-success-line]{display:block;position:absolute;z-index:2;height:.3125em;border-radius:.125em;background-color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-line][class$=tip]{top:2.875em;left:.8125em;width:1.5625em;transform:rotate(45deg)}.swal2-icon.swal2-success [class^=swal2-success-line][class$=long]{top:2.375em;right:.5em;width:2.9375em;transform:rotate(-45deg)}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-tip{-webkit-animation:swal2-animate-success-line-tip .75s;animation:swal2-animate-success-line-tip .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-long{-webkit-animation:swal2-animate-success-line-long .75s;animation:swal2-animate-success-line-long .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-circular-line-right{-webkit-animation:swal2-rotate-success-circular-line 4.25s ease-in;animation:swal2-rotate-success-circular-line 4.25s ease-in}.swal2-progress-steps{align-items:center;margin:0 0 1.25em;padding:0;background:inherit;font-weight:600}.swal2-progress-steps li{display:inline-block;position:relative}.swal2-progress-steps .swal2-progress-step{z-index:20;width:2em;height:2em;border-radius:2em;background:#3085d6;color:#fff;line-height:2em;text-align:center}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step{background:#3085d6}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step{background:#add8e6;color:#fff}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step-line{background:#add8e6}.swal2-progress-steps .swal2-progress-step-line{z-index:10;width:2.5em;height:.4em;margin:0 -1px;background:#3085d6}[class^=swal2]{-webkit-tap-highlight-color:transparent}.swal2-show{-webkit-animation:swal2-show .3s;animation:swal2-show .3s}.swal2-hide{-webkit-animation:swal2-hide .15s forwards;animation:swal2-hide .15s forwards}.swal2-noanimation{transition:none}.swal2-scrollbar-measure{position:absolute;top:-9999px;width:50px;height:50px;overflow:scroll}.swal2-rtl .swal2-close{right:auto;left:0}.swal2-rtl .swal2-timer-progress-bar{right:0;left:auto}@supports (-ms-accelerator:true){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@-moz-document url-prefix(){.swal2-close:focus{outline:2px solid rgba(50,100,150,.4)}}@-webkit-keyframes swal2-toast-show{0%{transform:translateY(-.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0)}}@keyframes swal2-toast-show{0%{transform:translateY(-.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0)}}@-webkit-keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@-webkit-keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@-webkit-keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@-webkit-keyframes swal2-show{0%{transform:scale(.7)}45%{transform:scale(1.05)}80%{transform:scale(.95)}100%{transform:scale(1)}}@keyframes swal2-show{0%{transform:scale(.7)}45%{transform:scale(1.05)}80%{transform:scale(.95)}100%{transform:scale(1)}}@-webkit-keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(.5);opacity:0}}@keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(.5);opacity:0}}@-webkit-keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@-webkit-keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@-webkit-keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@-webkit-keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(.4);opacity:0}50%{margin-top:1.625em;transform:scale(.4);opacity:0}80%{margin-top:-.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(.4);opacity:0}50%{margin-top:1.625em;transform:scale(.4);opacity:0}80%{margin-top:-.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@-webkit-keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0);opacity:1}}@keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0);opacity:1}}@-webkit-keyframes swal2-rotate-loading{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}@keyframes swal2-rotate-loading{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow:hidden}body.swal2-height-auto{height:auto!important}body.swal2-no-backdrop .swal2-container{top:auto;right:auto;bottom:auto;left:auto;max-width:calc(100% - .625em * 2);background-color:transparent!important}body.swal2-no-backdrop .swal2-container>.swal2-modal{box-shadow:0 0 10px rgba(0,0,0,.4)}body.swal2-no-backdrop .swal2-container.swal2-top{top:0;left:50%;transform:translateX(-50%)}body.swal2-no-backdrop .swal2-container.swal2-top-left,body.swal2-no-backdrop .swal2-container.swal2-top-start{top:0;left:0}body.swal2-no-backdrop .swal2-container.swal2-top-end,body.swal2-no-backdrop .swal2-container.swal2-top-right{top:0;right:0}body.swal2-no-backdrop .swal2-container.swal2-center{top:50%;left:50%;transform:translate(-50%,-50%)}body.swal2-no-backdrop .swal2-container.swal2-center-left,body.swal2-no-backdrop .swal2-container.swal2-center-start{top:50%;left:0;transform:translateY(-50%)}body.swal2-no-backdrop .swal2-container.swal2-center-end,body.swal2-no-backdrop .swal2-container.swal2-center-right{top:50%;right:0;transform:translateY(-50%)}body.swal2-no-backdrop .swal2-container.swal2-bottom{bottom:0;left:50%;transform:translateX(-50%)}body.swal2-no-backdrop .swal2-container.swal2-bottom-left,body.swal2-no-backdrop .swal2-container.swal2-bottom-start{bottom:0;left:0}body.swal2-no-backdrop .swal2-container.swal2-bottom-end,body.swal2-no-backdrop .swal2-container.swal2-bottom-right{right:0;bottom:0}@media print{body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow-y:scroll!important}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown)>[aria-hidden=true]{display:none}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown) .swal2-container{position:static!important}}body.swal2-toast-shown .swal2-container{background-color:transparent}body.swal2-toast-shown .swal2-container.swal2-top{top:0;right:auto;bottom:auto;left:50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-top-end,body.swal2-toast-shown .swal2-container.swal2-top-right{top:0;right:0;bottom:auto;left:auto}body.swal2-toast-shown .swal2-container.swal2-top-left,body.swal2-toast-shown .swal2-container.swal2-top-start{top:0;right:auto;bottom:auto;left:0}body.swal2-toast-shown .swal2-container.swal2-center-left,body.swal2-toast-shown .swal2-container.swal2-center-start{top:50%;right:auto;bottom:auto;left:0;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-center{top:50%;right:auto;bottom:auto;left:50%;transform:translate(-50%,-50%)}body.swal2-toast-shown .swal2-container.swal2-center-end,body.swal2-toast-shown .swal2-container.swal2-center-right{top:50%;right:0;bottom:auto;left:auto;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-left,body.swal2-toast-shown .swal2-container.swal2-bottom-start{top:auto;right:auto;bottom:0;left:0}body.swal2-toast-shown .swal2-container.swal2-bottom{top:auto;right:auto;bottom:0;left:50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-end,body.swal2-toast-shown .swal2-container.swal2-bottom-right{top:auto;right:0;bottom:0;left:auto}body.swal2-toast-column .swal2-toast{flex-direction:column;align-items:stretch}body.swal2-toast-column .swal2-toast .swal2-actions{flex:1;align-self:stretch;height:2.2em;margin-top:.3125em}body.swal2-toast-column .swal2-toast .swal2-loading{justify-content:center}body.swal2-toast-column .swal2-toast .swal2-input{height:2em;margin:.3125em auto;font-size:1em}body.swal2-toast-column .swal2-toast .swal2-validation-message{font-size:1em}'
+    }}
+  />
+  <nav
+    id="menu"
+    className="mm-menu mm-menu_offcanvas mm-menu_pagedim-black mm-menu_position-right"
+    aria-hidden="true"
+  >
+    <div className="mm-navbars_top">
+      <div className="mm-navbar">
+        <a
+          className="fab fa-facebook-f"
+          href="https://www.facebook.com/karataybelediye"
+        />
+        <a
+          className="fab fa-twitter"
+          href="https://www.twitter.com/KaratayBelediye"
+        />
+        <a
+          className="fab fa-instagram"
+          href="https://www.instagram.com/karataybelediyesi"
+        />
+        <a
+          className="fab fa-youtube"
+          href="https://www.youtube.com/karataybelediye"
+        />
+      </div>
+    </div>
+    <div className="mm-panels">
+      <div id="mm-1" className="mm-panel mm-panel_opened">
+        <div className="mm-navbar">
+          <a className="mm-navbar__title">Menu</a>
+        </div>
+        <ul className="mm-listview">
+          <li className="nav-item mm-listitem">
+            <a
+              className="nav-link mm-listitem__text"
+              href="https://www.karatay.bel.tr"
+            >
+              <i className="fas fa-home" />
+              Anasayfa
+            </a>
+          </li>
+          <li className="nav-item submenu mm-listitem">
+            <a className="nav-link active mm-listitem__text" href="#">
+              <i className="fas fa-suitcase" />
+              Kurumsal
+            </a>
+            <a
+              className="mm-btn mm-btn_next mm-listitem__btn"
+              href="#mm-2"
+              aria-haspopup="true"
+              aria-owns="mm-2"
+            >
+              <span className="mm-counter">7</span>
+              <span className="mm-sronly">Open submenu</span>
+            </a>
+          </li>
+          <li className="nav-item submenu mm-listitem">
+            <a className="nav-link active mm-listitem__text" href="#">
+              <i className="fas fa-info" />
+              Bilgi
+            </a>
+            <a
+              className="mm-btn mm-btn_next mm-listitem__btn"
+              href="#mm-3"
+              aria-haspopup="true"
+              aria-owns="mm-3"
+            >
+              <span className="mm-counter">2</span>
+              <span className="mm-sronly">Open submenu</span>
+            </a>
+          </li>
+          <li className="nav-item mm-listitem">
+            <a className="nav-link mm-listitem__text" href="/haberler">
+              <i className="fas fa-newspaper" />
+              Haberler
+            </a>
+          </li>
+          <li className="nav-item submenu mm-listitem">
+            <a className="nav-link active mm-listitem__text" href="#">
+              <i className="fas fa-building" />
+              Hizmetler
+            </a>
+            <a
+              className="mm-btn mm-btn_next mm-listitem__btn"
+              href="#mm-4"
+              aria-haspopup="true"
+              aria-owns="mm-4"
+            >
+              <span className="mm-counter">3</span>
+              <span className="mm-sronly">Open submenu</span>
+            </a>
+          </li>
+          <li className="nav-item submenu mm-listitem">
+            <a className="nav-link active mm-listitem__text" href="#">
+              <i className="fab fa-buffer" />
+              Karatay
+            </a>
+            <a
+              className="mm-btn mm-btn_next mm-listitem__btn"
+              href="#mm-5"
+              aria-haspopup="true"
+              aria-owns="mm-5"
+            >
+              <span className="mm-counter">3</span>
+              <span className="mm-sronly">Open submenu</span>
+            </a>
+          </li>
+          <li className="nav-item mm-listitem">
+            <a className="nav-link mm-listitem__text" href="/iletisim">
+              <i className="fas fa-envelope" />
+              İletişim
+            </a>
+          </li>
+          <li className="nav-item submenu mm-listitem">
+            <a className="nav-link active mm-listitem__text" href="#">
+              <i className="fas fa-mouse-pointer" />
+              E-Belediye
+            </a>
+            <a
+              className="mm-btn mm-btn_next mm-listitem__btn"
+              href="#mm-6"
+              aria-haspopup="true"
+              aria-owns="mm-6"
+            >
+              <span className="mm-counter">9</span>
+              <span className="mm-sronly">Open submenu</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id="mm-2" className="mm-panel mm-hidden" aria-hidden="true">
+        <div className="mm-navbar">
+          <a
+            className="mm-btn mm-btn_prev mm-navbar__btn"
+            href="#mm-1"
+            aria-haspopup="true"
+            aria-owns="mm-1"
+          >
+            <span className="mm-sronly">Close submenu</span>
+          </a>
+          <a className="mm-navbar__title" href="#mm-1" aria-hidden="true">
+            Kurumsal
+          </a>
+          <span className="mm-btn mm-navbar__btn" aria-haspopup="true" />
+        </div>
+        <ul className="nav-sub mm-listview">
+          <li className="mm-listitem">
+            <a href="/kurumsal/baskan" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Başkan
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a
+              href="/kurumsal/baskanyardimcilari"
+              className="mm-listitem__text"
+            >
+              <i className="fas fa-caret-right" />
+              Başkan Yardımcıları
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a href="/kurumsal/meclisuyeleri" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Meclis Üyeleri
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a href="/kurumsal/encumenuyeleri" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Encümen Üyeleri
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a href="/kurumsal/mudurler" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Birim Müdürleri
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a href="/kurumsal/kurumsal-sema" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Kurumsal Şema
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a href="/kurumsal/logomuz" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Logomuz
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id="mm-3" className="mm-panel mm-hidden" aria-hidden="true">
+        <div className="mm-navbar">
+          <a
+            className="mm-btn mm-btn_prev mm-navbar__btn"
+            href="#mm-1"
+            aria-haspopup="true"
+            aria-owns="mm-1"
+          >
+            <span className="mm-sronly">Close submenu</span>
+          </a>
+          <a className="mm-navbar__title" href="#mm-1" aria-hidden="true">
+            Bilgi
+          </a>
+          <span className="mm-btn mm-navbar__btn" aria-haspopup="true" />
+        </div>
+        <ul className="nav-sub mm-listview">
+          <li className="mm-listitem">
+            <a href="/birim-dosyalar" className="mm-listitem__text">
+              <i className="fas fa-caret-right" /> Dosyalar
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a href="/ihale-ve-duyurular" className="mm-listitem__text">
+              <i className="fas fa-caret-right" /> İhale ve Duyurular
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id="mm-4" className="mm-panel mm-hidden" aria-hidden="true">
+        <div className="mm-navbar">
+          <a
+            className="mm-btn mm-btn_prev mm-navbar__btn"
+            href="#mm-1"
+            aria-haspopup="true"
+            aria-owns="mm-1"
+          >
+            <span className="mm-sronly">Close submenu</span>
+          </a>
+          <a className="mm-navbar__title" href="#mm-1" aria-hidden="true">
+            Hizmetler
+          </a>
+          <span className="mm-btn mm-navbar__btn" aria-haspopup="true" />
+        </div>
+        <ul className="nav-sub mm-listview">
+          <li className="mm-listitem">
+            <a href="/evlilikislemleri" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Evlilik İşlemleri
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a href="/hosgeldinbebek" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Hoşgeldin Bebek
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a href="/arabuluculuk" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Arabuluculuk
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id="mm-5" className="mm-panel mm-hidden" aria-hidden="true">
+        <div className="mm-navbar">
+          <a
+            className="mm-btn mm-btn_prev mm-navbar__btn"
+            href="#mm-1"
+            aria-haspopup="true"
+            aria-owns="mm-1"
+          >
+            <span className="mm-sronly">Close submenu</span>
+          </a>
+          <a className="mm-navbar__title" href="#mm-1" aria-hidden="true">
+            Karatay
+          </a>
+          <span className="mm-btn mm-navbar__btn" aria-haspopup="true" />
+        </div>
+        <ul className="nav-sub mm-listview">
+          <li className="mm-listitem">
+            <a href="/muhtarlarimiz" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Muhtarlarımız
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a href="/mevlana" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Mevlana
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a href="/kardessehirler" className="mm-listitem__text">
+              <i className="fas fa-caret-right" />
+              Kardeş Şehirler
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id="mm-6" className="mm-panel mm-hidden" aria-hidden="true">
+        <div className="mm-navbar">
+          <a
+            className="mm-btn mm-btn_prev mm-navbar__btn"
+            href="#mm-1"
+            aria-haspopup="true"
+            aria-owns="mm-1"
+          >
+            <span className="mm-sronly">Close submenu</span>
+          </a>
+          <a className="mm-navbar__title" href="#mm-1" aria-hidden="true">
+            E-Belediye
+          </a>
+          <span className="mm-btn mm-navbar__btn" aria-haspopup="true" />
+        </div>
+        <ul className="nav-sub mm-listview">
+          <li className="mm-listitem">
+            <a
+              href="https://tahsilat.karatay.bel.tr/Ode/direkttahsilat.aspx"
+              className="mm-listitem__text"
+            >
+              <i className="fas fa-caret-right" /> E-Belediye
+            </a>
+          </li>
+          {/*<li><a href="https://www.karatay.bel.tr/vergi-yapilandirma-basvurusu" class="nav-link"><i class="fas fa-caret-right"></i> Vergi Yapılandırma Başvurusu</a></li> */}
+          {/* <li><a href="http://kbs.karatay.bel.tr/adaparselsorgula/" target="_blank" class="nav-link"><i class="fas fa-caret-right"></i> E-İmar</a></li> */}
+          <li className="mm-listitem">
+            <a
+              href="http://ebys.karatay.bel.tr/envision/Validate_Doc.aspx"
+              target="_blank"
+              className="nav-link mm-listitem__text"
+            >
+              <i className="fas fa-caret-right" /> E-İmza Doğrula
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a href="/imarprojeyukle" className="nav-link mm-listitem__text">
+              <i className="fas fa-caret-right" /> İmar Proje Yükle
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a
+              href="http://keos.karatay.bel.tr/imardurumu/index.aspx"
+              className="nav-link mm-listitem__text"
+            >
+              <i className="fas fa-caret-right" /> İmar Durumu
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a
+              href="https://kbs.konya.bel.tr/#/rehber/askiilce@KARATAY"
+              target="_blank"
+              className="nav-link mm-listitem__text"
+            >
+              <i className="fas fa-caret-right" /> E-İmar Planı Askı Listesi
+              (Haritalı)
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a
+              href="https://imarportali.konya.bel.tr/#/askiSozel?askiilce=KARATAY"
+              target="_blank"
+              className="nav-link mm-listitem__text"
+            >
+              <i className="fas fa-caret-right" /> E-İmar Planı Askı Listesi
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a
+              href="https://sosyalyardim.karatay.bel.tr"
+              target="_blank"
+              className="nav-link mm-listitem__text"
+            >
+              <i className="fas fa-caret-right" /> Sosyal Yardım Başvuru Formu
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a
+              href="https://tahsilat.karatay.bel.tr/maas/maaskullanicigiris.aspx"
+              target="_blank"
+              className="nav-link mm-listitem__text"
+            >
+              <i className="fas fa-caret-right" />
+              E-Bordro
+            </a>
+          </li>
+          <li className="mm-listitem">
+            <a
+              href="https://kamim.karatay.bel.tr"
+              target="_blank"
+              className="nav-link mm-listitem__text"
+            >
+              <i className="fas fa-caret-right" /> Kamim (Muhtarlık İletişim
+              Merkezi)
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div className="mm-navbars_bottom">
+      <div className="mm-navbar">
+        <a className="fas fa-phone" href="tel:03323501313/" />
+        <a className="fab fa-app-store-ios" href="#/" />
+        <a className="fab fa-google-play" href="#/" />
+      </div>
+    </div>
+  </nav>
+  <div className="mm-page mm-slideout" id="mm-0">
+    <div className="section d-block d-sm-none">
+      <a href="/sergi" target="_blank">
+        <img
+          src="https://www.karatay.bel.tr/img/projeler/t/sergi-mobil.jpg"
+          className="img-fluid"
+          alt="Sergi"
+        />
+      </a>
+    </div>
+    <div className="page">
+      {/* BG Start */}
+      <div className="container outside">
+        {/* HEADER START */}
+        <div id="header" className="v2">
+          {/* Top Start */}
+          <div className="top">
+            <div className="row align-items-center">
+              <div className="col-12 col-md-9 col-xl-6 d-flex align-items-center justify-content-center justify-content-md-start">
+                {/* Language Changer Start */}
+                <div className="dropdown languageChanger">
+                  <button
+                    className="btn btn-secondary dropdown-toggle"
+                    type="button"
+                    id="languageButton"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    aria-expanded="false"
+                  >
+                    <i className="icons icon-1" /> Türkçe
+                  </button>
+                  <div
+                    className="dropdown-menu"
+                    aria-labelledby="languageButton"
+                  >
+                    <a className="dropdown-item" href="/en">
+                      <img
+                        src="https://www.karatay.bel.tr/assets/img/english.png"
+                        alt="İngilizce"
+                      />{" "}
+                      İngilizce
+                    </a>
+                  </div>
+                </div>
+                {/* Language Changer End */}
+                {/* Weather Start */}
+                <div className="weather">
+                  {/*img src="https://www.karatay.bel.tr/assets/img/cloudy.png" width="25px" alt="Bulutlu"*/}
+                  <img
+                    src="https://openweathermap.org/img/wn/04d.png"
+                    width="30px"
+                    alt="Bulutlu"
+                  />
+                  Karatay 7°C
+                </div>
+                {/* Weather End */}
+                {/* Phone Number Start */}
+                <div className="phone-number">
+                  <i className="icons icon-3" />
+                  444 9 332
+                </div>
+                {/* Phone Number End */}
+              </div>
+              <div className="m-hidden col-md-3 col-xl-6 d-flex justify-content-end">
+                {/* Social Start */}
+                <ul className="social nav">
+                  <li className="nav-item">
+                    <a href="https://sifiratik.karatay.bel.tr" target="_blank">
+                      <img
+                        src="https://www.karatay.bel.tr/assets/img/sifir-atik-logo.png"
+                        className="img-fluid nav-link"
+                        style={{ height: 27 }}
+                        alt="Sıfır Atık"
+                      />
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <a
+                      href="https://www.facebook.com/karataybelediye"
+                      className="nav-link"
+                      target="_blank"
+                    >
+                      <i className="icons icon-4" />
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <a
+                      href="https://www.twitter.com/KaratayBelediye"
+                      className="nav-link"
+                      target="_blank"
+                    >
+                      <i className="icons icon-5" />
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <a
+                      href="https://www.instagram.com/karataybelediyesi"
+                      className="nav-link"
+                      target="_blank"
+                    >
+                      <i className="icons icon-6" />
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <a
+                      href="https://www.youtube.com/karataybelediye"
+                      className="nav-link"
+                      target="_blank"
+                    >
+                      <i className="icons icon-7" />
+                    </a>
+                  </li>
+                </ul>
+                {/* Social End */}
+              </div>
+            </div>
+          </div>
+          {/* Top End */}
+          {/* Bottom Start */}
+          <div className="bottom">
+            <div className="menu-bg" style={{ height: "auto" }} />
+            <div className="row">
+              <div className="col-12 m-hidden">
+                <ul className="nav">
+                  <li className="nav-item">
+                    <a className="nav-link" href="https://www.karatay.bel.tr">
+                      Anasayfa
+                    </a>
+                  </li>
+                  <li className="nav-item submenu">
+                    <a className="nav-link" href="#">
+                      Kurumsal
+                    </a>
+                    <div className="nav-sub" style={{}}>
+                      <a href="/kurumsal/baskan">Başkan</a>
+                      <a href="/kurumsal/baskanyardimcilari">
+                        Başkan Yardımcıları
+                      </a>
+                      <a href="/kurumsal/meclisuyeleri">Meclis Üyeleri</a>
+                      <a href="/meclis-gundemi-ve-kararlari">
+                        Meclis Gündemi ve Kararları
+                      </a>
+                      <a href="/kurumsal/encumenuyeleri">Encümen Üyeleri</a>
+                      <a href="/kurumsal/mudurler">Birim Müdürleri</a>
+                      <a href="/kurumsal/kurumsal-sema">Kurumsal Şema</a>
+                      <a href="/kurumsal/logomuz">Logomuz</a>
+                    </div>
+                  </li>
+                  <li className="nav-item submenu">
+                    <a className="nav-link" href="#">
+                      Bilgi
+                    </a>
+                    <div className="nav-sub">
+                      <a href="/birim-dosyalar">Dosyalar</a>
+                      <a href="/ihale-ve-duyurular">İhale ve Duyurular</a>
+                    </div>
+                  </li>
+                  <li className="nav-item">
+                    <a className="nav-link" href="/haberler">
+                      Haberler
+                    </a>
+                  </li>
+                  <li className="nav-item submenu">
+                    <a className="nav-link" href="#">
+                      Hizmetler
+                    </a>
+                    <div className="nav-sub">
+                      <a href="/evlilikislemleri">Evlilik İşlemleri</a>
+                      <a href="/hosgeldinbebek">Hoşgeldin Bebek</a>
+                      <a href="/arabuluculuk">Arabuluculuk</a>
+                    </div>
+                  </li>
+                  <li className="nav-item submenu">
+                    <a className="nav-link" href="#">
+                      Karatay
+                    </a>
+                    <div className="nav-sub">
+                      <a href="/muhtarlarimiz">Muhtarlarımız</a>
+                      <a href="/mevlana">Mevlana</a>
+                      <a href="/kardessehirler">Kardeş Şehirler</a>
+                    </div>
+                  </li>
+                  {/*li class="nav-item">
+                              <a class="nav-link" href="#">Projeler</a>
+                          </li*/}
+                  {/*li class="nav-item">
+                              <a class="nav-link head-work-btn" href="#work-dialog">Bilgi</a>
+                          </li*/}
+                  <li className="nav-item">
+                    <a className="nav-link" href="/iletisim">
+                      İletişim
+                    </a>
+                  </li>
+                  <li className="nav-item submenu d-flex align-items-center">
+                    <a
+                      href="#"
+                      className="btn ml-auto head-work-btn"
+                      onclick="ebelediyeClick()"
+                    >
+                      <i className="icons icon-8" />
+                      E-Belediye
+                    </a>
+                    <div className="nav-sub">
+                      <a href="https://tahsilat.karatay.bel.tr/Ode/direkttahsilat.aspx">
+                        Hızlı Tahsilat
+                      </a>
+                      <a
+                        href="http://ebys.karatay.bel.tr/envision/Validate_Doc.aspx"
+                        target="_blank"
+                      >
+                        E-İmza Doğrula
+                      </a>
+                      <a href="/imarprojeyukle">İmar Proje Yükle</a>
+                      <a
+                        href="http://keos.karatay.bel.tr/imardurumu/index.aspx"
+                        target="_blank"
+                      >
+                        İmar Durumu
+                      </a>
+                      <a
+                        href="https://kbs.konya.bel.tr/#/rehber/askiilce@KARATAY"
+                        target="_blank"
+                      >
+                        E-İmar Planı Askı Listesi (Haritalı)
+                      </a>
+                      <a
+                        href="https://imarportali.konya.bel.tr/#/askiSozel?askiilce=KARATAY"
+                        target="_blank"
+                      >
+                        E-İmar Planı Askı Listesi
+                      </a>
+                      <a
+                        href="https://sosyalyardim.karatay.bel.tr"
+                        target="_blank"
+                      >
+                        Sosyal Yardım Başvuru Formu
+                      </a>
+                      <a href="https://kamim.karatay.bel.tr" target="_blank">
+                        Kamim (Muhtarlık İletişim Merkezi)
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <a href="https://www.karatay.bel.tr" className="logo">
+                <img
+                  src="https://www.karatay.bel.tr/assets/img/logo.png"
+                  alt="Karatay Belediyesi"
+                  className="desktop"
+                />
+              </a>
+              <a
+                href="https://www.karatay.bel.tr"
+                className="mobile-logo col-4 d-xl-none"
+              >
+                <img
+                  src="https://www.karatay.bel.tr/assets/img/mobil-logo.png"
+                  alt="Karatay Belediyesi"
+                />
+              </a>
+              <div className="col-8 align-items-center justify-content-end d-flex m-lg-hidden">
+                <a className="menu-button" href="#menu">
+                  <i className="fas fa-bars" />
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* Bottom End */}
+        </div>
+        {/* HEADER END */}
+        <div id="slider">
+          <div className="row">
+            <div className="col-12 col-md-7 col-xl-8 pr-md-2">
+              <div
+                className="swiper-container swiper-container-initialized swiper-container-horizontal"
+                id="swiper-container2"
+              >
+                <div
+                  className="swiper-wrapper"
+                  style={{
+                    transform: "translate3d(-396px, 0px, 0px)",
+                    transitionDuration: "0ms"
+                  }}
+                >
+                  <a
+                    href="/haberdetay/5398/konyanin-tarihi-evleri-yore-mimarisine-uygun-restore-ediliyor"
+                    className="swiper-slide swiper-slide-duplicate swiper-slide-prev"
+                    data-swiper-slide-index={5}
+                    style={{ width: 396 }}
+                  >
+                    <img
+                      className="slide-thumbnail"
+                      src="/haber/resim1/12810/konyanin-tarihi-evleri-yore-mimarisine-uygun-restore-ediliyor.jpg-1500.jpg"
+                      alt=""
+                    />
+                    <div className="slide-title">
+                      KONYA’NIN TARİHİ EVLERİ YÖRE MİMARİSİNE UYGUN RESTORE
+                      EDİLİYOR
+                    </div>
+                  </a>
+                  <a
+                    href="/haberdetay/5403/karataya-hizmet-etmek-bizim-icin-buyuk-bir-mutluluk"
+                    className="swiper-slide swiper-slide-active"
+                    data-swiper-slide-index={0}
+                    style={{ width: 396 }}
+                  >
+                    <img
+                      className="slide-thumbnail"
+                      src="/haber/resim1/12839/karataya-hizmet-etmek-bizim-icin-buyuk-bir-mutluluk.jpg-1500.jpg"
+                      alt=""
+                    />
+                    <div className="slide-title">
+                      KARATAY’A HİZMET ETMEK BİZİM İÇİN BÜYÜK BİR MUTLULUK
+                    </div>
+                  </a>
+                  <a
+                    href="/haberdetay/5402/yksye-gireceklere-sinav-ucreti-destegi"
+                    className="swiper-slide swiper-slide-next"
+                    data-swiper-slide-index={1}
+                    style={{ width: 396 }}
+                  >
+                    <img
+                      className="slide-thumbnail"
+                      src="/haber/resim1/12837/yksye-gireceklere-sinav-ucreti-destegi.jpg-1500.jpg"
+                      alt=""
+                    />
+                    <div className="slide-title">
+                      YKS’YE GİRECEKLERE SINAV ÜCRETİ DESTEĞİ
+                    </div>
+                  </a>
+                  <a
+                    href="/haberdetay/5401/baskan-kilcadan-oto-galericiler-esnafi-ziyareti"
+                    className="swiper-slide"
+                    data-swiper-slide-index={2}
+                    style={{ width: 396 }}
+                  >
+                    <img
+                      className="slide-thumbnail"
+                      src="/haber/resim1/12829/baskan-kilcadan-oto-galericiler-esnafi-ziyareti.jpg-1500.jpg"
+                      alt=""
+                    />
+                    <div className="slide-title">
+                      BAŞKAN KILCA’DAN OTO GALERİCİLER ESNAFI ZİYARETİ
+                    </div>
+                  </a>
+                  <a
+                    href="/haberdetay/5400/mahalle-mahalle-adim-adim-karatay"
+                    className="swiper-slide"
+                    data-swiper-slide-index={3}
+                    style={{ width: 396 }}
+                  >
+                    <img
+                      className="slide-thumbnail"
+                      src="/haber/resim1/12820/mahalle-mahalle-adim-adim-karatay.jpg-1500.jpg"
+                      alt=""
+                    />
+                    <div className="slide-title">
+                      MAHALLE MAHALLE ADIM ADIM KARATAY
+                    </div>
+                  </a>
+                  <a
+                    href="/haberdetay/5399/hasan-kilcadan-esnaf-ziyareti"
+                    className="swiper-slide"
+                    data-swiper-slide-index={4}
+                    style={{ width: 396 }}
+                  >
+                    <img
+                      className="slide-thumbnail"
+                      src="/haber/resim1/12814/hasan-kilcadan-esnaf-ziyareti.jpg-1500.jpg"
+                      alt=""
+                    />
+                    <div className="slide-title">
+                      {" "}
+                      HASAN KILCA’DAN ESNAF ZİYARETİ
+                    </div>
+                  </a>
+                  <a
+                    href="/haberdetay/5398/konyanin-tarihi-evleri-yore-mimarisine-uygun-restore-ediliyor"
+                    className="swiper-slide swiper-slide-duplicate-prev"
+                    data-swiper-slide-index={5}
+                    style={{ width: 396 }}
+                  >
+                    <img
+                      className="slide-thumbnail"
+                      src="/haber/resim1/12810/konyanin-tarihi-evleri-yore-mimarisine-uygun-restore-ediliyor.jpg-1500.jpg"
+                      alt=""
+                    />
+                    <div className="slide-title">
+                      KONYA’NIN TARİHİ EVLERİ YÖRE MİMARİSİNE UYGUN RESTORE
+                      EDİLİYOR
+                    </div>
+                  </a>
+                  <a
+                    href="/haberdetay/5403/karataya-hizmet-etmek-bizim-icin-buyuk-bir-mutluluk"
+                    className="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
+                    data-swiper-slide-index={0}
+                    style={{ width: 396 }}
+                  >
+                    <img
+                      className="slide-thumbnail"
+                      src="/haber/resim1/12839/karataya-hizmet-etmek-bizim-icin-buyuk-bir-mutluluk.jpg-1500.jpg"
+                      alt=""
+                    />
+                    <div className="slide-title">
+                      KARATAY’A HİZMET ETMEK BİZİM İÇİN BÜYÜK BİR MUTLULUK
+                    </div>
+                  </a>
+                </div>
+                <div className="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets">
+                  <span
+                    className="swiper-pagination-bullet swiper-pagination-bullet-active"
+                    tabIndex={0}
+                    role="button"
+                    aria-label="Go to slide 1"
+                  />
+                  <span
+                    className="swiper-pagination-bullet"
+                    tabIndex={0}
+                    role="button"
+                    aria-label="Go to slide 2"
+                  />
+                  <span
+                    className="swiper-pagination-bullet"
+                    tabIndex={0}
+                    role="button"
+                    aria-label="Go to slide 3"
+                  />
+                  <span
+                    className="swiper-pagination-bullet"
+                    tabIndex={0}
+                    role="button"
+                    aria-label="Go to slide 4"
+                  />
+                  <span
+                    className="swiper-pagination-bullet"
+                    tabIndex={0}
+                    role="button"
+                    aria-label="Go to slide 5"
+                  />
+                  <span
+                    className="swiper-pagination-bullet"
+                    tabIndex={0}
+                    role="button"
+                    aria-label="Go to slide 6"
+                  />
+                </div>
+                <span
+                  className="swiper-notification"
+                  aria-live="assertive"
+                  aria-atomic="true"
+                />
+              </div>
+            </div>
+            <div className="col-12 col-md-5 col-xl-4 pl-md-1">
+              <a
+                href="/haberdetay/5397/karatayin-basarili-haltercisinden-ankarada-onemli-derece"
+                className="post"
+              >
+                <img
+                  className="post-thumbnail"
+                  src="/haber/resim1/12809/karatayin-basarili-haltercisinden-ankarada-onemli-derece.jpg-750.jpg"
+                  alt=""
+                />
+                <div className="post-title">
+                  KARATAY’IN BAŞARILI HALTERCİSİNDEN ANKARA’DA ÖNEMLİ DERECE
+                </div>
+              </a>
+              <a
+                href="/haberdetay/5395/baskan-hasan-kilcadan-mahalle-ziyaretleri"
+                className="post"
+              >
+                <img
+                  className="post-thumbnail"
+                  src="/haber/resim1/12791/baskan-hasan-kilcadan-mahalle-ziyaretleri.jpg-750.jpg"
+                  alt=""
+                />
+                <div className="post-title">
+                  BAŞKAN HASAN KILCA’DAN MAHALLE ZİYARETLERİ
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        {/* SLIDER AREA END */}
+        <style
+          dangerouslySetInnerHTML={{
+            __html:
+              "\n/* width */\n::-webkit-scrollbar {\n  width: 8px;\n}\n\n/* Track */\n::-webkit-scrollbar-track {\n  background: #f1f1f1; \n}\n \n/* Handle */\n::-webkit-scrollbar-thumb {\n  background: #477f67; \n}\n\n/* Handle on hover */\n::-webkit-scrollbar-thumb:hover {\n  background: #255944; \n} \n"
+          }}
+        />
+        {/* MAIN START */}
+        <main id="main">
+          {/* Bid & Press Start */}
+          {/* Bid & Press End */}
+          <div className="row">
+            <div className="col-12 col-md-4 col-lg-3 col-xl-3 sidebar">
+              <div className="widget">
+                {/* Widget Content Start */}
+                <div className="widget-content">
+                  <a
+                    href="/dogrudan-temin-alimlari"
+                    type="button"
+                    className="btn btn-lg btn-block"
+                    style={{
+                      color: "#ffffff",
+                      background: "#255944",
+                      borderColor: "#255944"
+                    }}
+                  >
+                    DOĞRUDAN TEMİN ALIMLARI
+                  </a>
+                </div>
+                {/* Widget Content End */}
+              </div>
+              {/* Widget Start */}
+              <div className="widget">
+                {/* Widget Title Start */}
+                <div className="widget-title section-title text-left">
+                  <span>İhale ve Duyurular</span>{" "}
+                  <a href="/ihale-ve-duyurular" className="btn">
+                    Tümü
+                  </a>
+                </div>
+                {/* Widget Title End */}
+                {/* Widget Content Start */}
+                <div
+                  className="widget-content bid-widget overflow-auto"
+                  style={{ height: 225 }}
+                >
+                  {/* Bid List Start */}
+                  <nav className="bid-list">
+                    {/* Bid Start */}
+                    <div className="bid d-flex">
+                      {/* Bid Date Start */}
+                      <div
+                        className="bid-date ihaledurumu"
+                        style={{ background: "rgb(37, 89, 68)" }}
+                      >
+                        <span className="day" style={{ fontSize: 18 }}>
+                          16
+                        </span>
+                        <span className="month" style={{ fontSize: 12 }}>
+                          ŞUBAT
+                        </span>
+                      </div>
+                      {/* Bid Date End */}
+                      {/* Bid Content Start */}
+                      <div className="bid-content d-flex flex-column justify-content-center">
+                        {/* Bid Title Start */}
+                        <a
+                          href="https://www.karatay.bel.tr/uploads/a23837994a0a87b5.pdf"
+                          className="bid-title"
+                          target="_blank"
+                        >
+                          2023 yILI ZABITA MEMURU ALIMI SINAV SONUÇLARI
+                        </a>
+                        {/* Bid Title End */}
+                      </div>
+                      {/* Bid Content End */}
+                    </div>
+                    {/* Bid End */}
+                    {/* Bid Start */}
+                    <div className="bid d-flex">
+                      {/* Bid Date Start */}
+                      <div className="bid-date">
+                        <span className="day" style={{ fontSize: 18 }}>
+                          21
+                        </span>
+                        <span className="month" style={{ fontSize: 12 }}>
+                          ŞUBAT
+                        </span>
+                      </div>
+                      {/* Bid Date End */}
+                      {/* Bid Content Start */}
+                      <div className="bid-content d-flex flex-column justify-content-center">
+                        {/* Bid Title Start */}
+                        <a
+                          href="https://www.karatay.bel.tr/uploads/b25451a0b7ad96ab.pdf"
+                          className="bid-title"
+                          target="_blank"
+                        >
+                          21.02.2024 TARİHLİ GAYRİMENKUL KİRA İHALESİ
+                        </a>
+                        {/* Bid Title End */}
+                      </div>
+                      {/* Bid Content End */}
+                    </div>
+                    {/* Bid End */}
+                    {/* Bid Start */}
+                    <div className="bid d-flex">
+                      {/* Bid Date Start */}
+                      <div className="bid-date">
+                        <span className="day" style={{ fontSize: 18 }}>
+                          26
+                        </span>
+                        <span className="month" style={{ fontSize: 12 }}>
+                          ŞUBAT
+                        </span>
+                      </div>
+                      {/* Bid Date End */}
+                      {/* Bid Content Start */}
+                      <div className="bid-content d-flex flex-column justify-content-center">
+                        {/* Bid Title Start */}
+                        <a
+                          href="https://www.karatay.bel.tr/uploads/c759e2956e4e4ff9.docx"
+                          className="bid-title"
+                          target="_blank"
+                        >
+                          ÇİFT TABAKALI BİTÜMLÜ SATHİ KAPLAMA YAPIM İŞİ
+                        </a>
+                        {/* Bid Title End */}
+                      </div>
+                      {/* Bid Content End */}
+                    </div>
+                    {/* Bid End */}
+                    {/* Bid Start */}
+                    <div className="bid d-flex">
+                      {/* Bid Date Start */}
+                      <div className="bid-date">
+                        <span className="day" style={{ fontSize: 18 }}>
+                          27
+                        </span>
+                        <span className="month" style={{ fontSize: 12 }}>
+                          ŞUBAT
+                        </span>
+                      </div>
+                      {/* Bid Date End */}
+                      {/* Bid Content Start */}
+                      <div className="bid-content d-flex flex-column justify-content-center">
+                        {/* Bid Title Start */}
+                        <a
+                          href="https://www.karatay.bel.tr/uploads/36abbc34ec7179ec.docx"
+                          className="bid-title"
+                          target="_blank"
+                        >
+                          TRETUVAR YAPIM İŞİ YAPTIRILACAKTIR
+                        </a>
+                        {/* Bid Title End */}
+                      </div>
+                      {/* Bid Content End */}
+                    </div>
+                    {/* Bid End */}
+                  </nav>
+                  {/* Bid List End */}
+                </div>
+                {/* Widget Content End */}
+              </div>
+              {/* Widget End */}
+            </div>
+            <div className="col-lg-9 col-md-9 col-xs-12">
+              {/* Projects Start */}
+              <div className="section projects-area">
+                {/* Section Title Start */}
+                <div className="section-title">
+                  <span>Değer Katan Projeler</span>
+                </div>
+                {/* Section Title End */}
+                {/* Slide Start */}
+                <div className="slide-area">
+                  <div className="swiper-container swiper-container-initialized swiper-container-horizontal">
+                    <div
+                      className="swiper-wrapper"
+                      style={{
+                        transform: "translate3d(-524px, 0px, 0px)",
+                        transitionDuration: "0ms"
+                      }}
+                    >
+                      <a
+                        href="#"
+                        data-toggle="modal"
+                        data-target="#sayfa-hazirlaniyor"
+                        className="swiper-slide swiper-slide-duplicate"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={7}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/karatay_sehir_parki.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          KARATAY ŞEHİR PARKI
+                        </div>
+                      </a>
+                      <a
+                        href="#"
+                        data-toggle="modal"
+                        data-target="#sayfa-hazirlaniyor"
+                        className="swiper-slide swiper-slide-duplicate"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={8}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/olimpiyat_parki.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          OLİMPİYAT PARKI
+                        </div>
+                      </a>
+                      <a
+                        href="/proje/bilim-sanat-ve-egitim-merkezi"
+                        className="swiper-slide swiper-slide-duplicate swiper-slide-prev"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={9}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/bilim_sanat_ve_egitim_merkezi.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          BİLİM SANAT VE EĞİTİM MERKEZİ
+                        </div>
+                      </a>
+                      <a
+                        href="/proje/obruk-hani-restorasyonu"
+                        className="swiper-slide swiper-slide-active"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={0}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/obruk-hani-galeri/6.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          OBRUK HANI RESTORASYONU
+                        </div>
+                      </a>
+                      <a
+                        href="/proje/robokaratay"
+                        className="swiper-slide swiper-slide-next"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={1}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/robokaratay.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          ROBOKARATAY
+                        </div>
+                      </a>
+                      <a
+                        href="/proje/lavanta-bahcesi"
+                        className="swiper-slide"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={2}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/lavanta/lavanta5.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          LAVANTA BAHÇESİ
+                        </div>
+                      </a>
+                      <a
+                        href="/proje/karatay-termal-tatil-koyu"
+                        className="swiper-slide"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={3}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/karatay-termal-2.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          KARATAY TERMAL TESİSLERİ
+                        </div>
+                      </a>
+                      <a
+                        href="#"
+                        data-toggle="modal"
+                        data-target="#sayfa-hazirlaniyor"
+                        className="swiper-slide"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={4}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/adalet_parki.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          ADALET PARKI
+                        </div>
+                      </a>
+                      <a
+                        href="#"
+                        data-toggle="modal"
+                        data-target="#sayfa-hazirlaniyor"
+                        className="swiper-slide"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={5}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/karaarslan_piknikbahcesi.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          KARAASLAN PİKNİK BAHÇESİ
+                        </div>
+                      </a>
+                      <a
+                        href="/proje/karatay-gunes-enerji-santrali"
+                        className="swiper-slide"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={6}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/karatay_gunes_enerji_santrali.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          KARATAY GÜNEŞ ENERJİ SANTRALİ
+                        </div>
+                      </a>
+                      <a
+                        href="#"
+                        data-toggle="modal"
+                        data-target="#sayfa-hazirlaniyor"
+                        className="swiper-slide"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={7}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/karatay_sehir_parki.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          KARATAY ŞEHİR PARKI
+                        </div>
+                      </a>
+                      <a
+                        href="#"
+                        data-toggle="modal"
+                        data-target="#sayfa-hazirlaniyor"
+                        className="swiper-slide"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={8}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/olimpiyat_parki.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          OLİMPİYAT PARKI
+                        </div>
+                      </a>
+                      <a
+                        href="/proje/bilim-sanat-ve-egitim-merkezi"
+                        className="swiper-slide swiper-slide-duplicate-prev"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={9}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/bilim_sanat_ve_egitim_merkezi.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          BİLİM SANAT VE EĞİTİM MERKEZİ
+                        </div>
+                      </a>
+                      <a
+                        href="/proje/obruk-hani-restorasyonu"
+                        className="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={0}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/obruk-hani-galeri/6.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          OBRUK HANI RESTORASYONU
+                        </div>
+                      </a>
+                      <a
+                        href="/proje/robokaratay"
+                        className="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={1}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/robokaratay.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          ROBOKARATAY
+                        </div>
+                      </a>
+                      <a
+                        href="/proje/lavanta-bahcesi"
+                        className="swiper-slide swiper-slide-duplicate"
+                        style={{ width: "159.667px", marginRight: 15 }}
+                        data-swiper-slide-index={2}
+                      >
+                        <img
+                          className="slide-thumbnail"
+                          src="https://www.karatay.bel.tr/img/projeler/t/lavanta/lavanta5.jpg"
+                          alt=""
+                        />
+                        <div className="slide-title" style={{ fontSize: 14 }}>
+                          LAVANTA BAHÇESİ
+                        </div>
+                      </a>
+                    </div>
+                    <span
+                      className="swiper-notification"
+                      aria-live="assertive"
+                      aria-atomic="true"
+                    />
+                  </div>
+                  {/* Buttons Start */}
+                  <div
+                    className="button prev"
+                    tabIndex={0}
+                    role="button"
+                    aria-label="Previous slide"
+                  >
+                    <i className="fas fa-angle-left" />
+                  </div>
+                  <div
+                    className="button next"
+                    tabIndex={0}
+                    role="button"
+                    aria-label="Next slide"
+                  >
+                    <i className="fas fa-angle-right" />
+                  </div>
+                  {/* Buttons End */}
+                </div>
+                {/* Slide End */}
+              </div>
+              <div className="section d-none d-sm-block">
+                <a href="/sergi" target="_blank">
+                  <img
+                    src="https://www.karatay.bel.tr/img/projeler/t/sergi.jpg"
+                    className="img-fluid"
+                    alt="Sergi"
+                  />
+                </a>
+              </div>
+              {/* Projects End */}
+            </div>
+          </div>
+          {/* Unknowns Area Start */}
+          <div className="row section unknowns-area">
+            <div className="col-12">
+              <div className="section-title text-left d-block d-sm-none">
+                <span>Sıfır Atık</span>
+              </div>
+              <a href="https://sifiratik.karatay.bel.tr" target="_blank">
+                <img
+                  src="https://www.karatay.bel.tr/img/karatay/t/sifir-atik.png"
+                  className="img-fluid d-block d-sm-none"
+                  alt="Sıfır Atık"
+                />
+              </a>
+            </div>
+            <div className="col-12 col-md-4 col-lg-3 col-xl-3">
+              {/* Section Title Start */}
+              <div className="section-title text-left">
+                <span>Rakamlarla Karatay</span>
+              </div>
+              {/* Section Title End */}
+              {/* Count Box Start */}
+              <div className="count-box location">
+                <span>NÜFUS</span>
+                <div className="count">375.919</div>
+              </div>
+              {/* Count Box End */}
+              {/* Count Box Start */}
+              <div className="count-box streets">
+                <span>Mahalle Sayısı</span>
+                <div className="count">63</div>
+              </div>
+              {/* Count Box End */}
+              {/* Count Box Start */}
+              <div className="count-box streets">
+                <span>İlçe Yüzölçümü</span>
+                <div className="count">
+                  2.746 KM<sup>2</sup>
+                </div>
+              </div>
+              {/* Count Box End */}
+            </div>
+            <div className="col-12 col-md-8 col-lg-9 col-xl-9">
+              {/* Section Title Start */}
+              <div className="section-title">
+                <span>BUNLARI BİLİYOR MUYDUNUZ?</span>
+              </div>
+              {/* Section Title End */}
+              {/* Slide Start */}
+              <div className="swiper-container slider swiper-container-initialized swiper-container-horizontal">
+                <div
+                  className="swiper-wrapper"
+                  style={{
+                    transform: "translate3d(-449px, 0px, 0px)",
+                    transitionDuration: "0ms"
+                  }}
+                >
+                  <div
+                    className="swiper-slide d-flex swiper-slide-duplicate swiper-slide-prev"
+                    data-swiper-slide-index={3}
+                    style={{ width: 449 }}
+                  >
+                    {/* Slide Thumbnail Start */}
+                    <img
+                      src="https://www.karatay.bel.tr/img/biliyormuydunuz/roma_gozetleme_kulesi.jpg"
+                      alt=""
+                      className="slide-thumbnail"
+                    />
+                    {/* Slide Thumbnail End */}
+                    {/* Slide Content Start */}
+                    <div className="slide-content d-flex flex-column justify-content-center align-items-start">
+                      {/* Slide Text Start */}
+                      <div className="slide-text">
+                        Karatay Bozdağ Milli Parkı’nda Antik Roma İmparatorluğu
+                        tarafından inşa edilmiş 100 adet gözetleme kulesi
+                        kalıntısı bulunduğunu biliyor muydunuz?
+                      </div>
+                      {/* Slide Text End */}
+                      {/* Slide Button Start */}
+                      <a
+                        href="/bunlaribiliyormuydunuz"
+                        className="btn slide-btn"
+                      >
+                        Tümünü Göster
+                      </a>
+                      {/* Slide Button End */}
+                    </div>
+                    {/* Slide Content End */}
+                  </div>
+                  {/* Slide Start */}
+                  <div
+                    className="swiper-slide d-flex swiper-slide-active"
+                    data-swiper-slide-index={0}
+                    style={{ width: 449 }}
+                  >
+                    {/* Slide Thumbnail Start */}
+                    <img
+                      src="https://www.karatay.bel.tr/img/biliyormuydunuz/boncuklu_hoyuk.jpg"
+                      alt=""
+                      className="slide-thumbnail"
+                    />
+                    {/* Slide Thumbnail End */}
+                    {/* Slide Content Start */}
+                    <div className="slide-content d-flex flex-column justify-content-center align-items-start">
+                      {/* Slide Text Start */}
+                      <div className="slide-text">
+                        Karatay Hayıroğlu mahallesinde 10.500 yıllık “Boncuklu
+                        Höyük” isminde eski bir yerleşim olduğunu ve içerisinde
+                        8.500 yıllık kerpiç kalıntılar olduğunu biliyor
+                        muydunuz?
+                      </div>
+                      {/* Slide Text End */}
+                      {/* Slide Button Start */}
+                      <a
+                        href="/bunlaribiliyormuydunuz"
+                        className="btn slide-btn"
+                      >
+                        Tümünü Göster
+                      </a>
+                      {/* Slide Button End */}
+                    </div>
+                    {/* Slide Content End */}
+                  </div>
+                  {/* Slide End */}
+                  {/* Slide Start */}
+                  <div
+                    className="swiper-slide d-flex swiper-slide-next"
+                    data-swiper-slide-index={1}
+                    style={{ width: 449 }}
+                  >
+                    {/* Slide Thumbnail Start */}
+                    <img
+                      src="https://www.karatay.bel.tr/img/biliyormuydunuz/karatay_gunes_enerji_santrali.jpg"
+                      alt=""
+                      className="slide-thumbnail"
+                    />
+                    {/* Slide Thumbnail End */}
+                    {/* Slide Content Start */}
+                    <div className="slide-content d-flex flex-column justify-content-center align-items-start">
+                      {/* Slide Text Start */}
+                      <div className="slide-text">
+                        Karatay Belediyesi’nin her yıl tükettiği kadar elektrik
+                        enerjisini sınırları içerisinde kurduğu iki tesisten
+                        karşıladığını biliyor muydunuz?
+                      </div>
+                      {/* Slide Text End */}
+                      {/* Slide Button Start */}
+                      <a
+                        href="/bunlaribiliyormuydunuz"
+                        className="btn slide-btn"
+                      >
+                        Tümünü Göster
+                      </a>
+                      {/* Slide Button End */}
+                    </div>
+                    {/* Slide Content End */}
+                  </div>
+                  {/* Slide End */}
+                  {/* Slide Start */}
+                  <div
+                    className="swiper-slide d-flex"
+                    data-swiper-slide-index={2}
+                    style={{ width: 449 }}
+                  >
+                    {/* Slide Thumbnail Start */}
+                    <img
+                      src="https://www.karatay.bel.tr/img/biliyormuydunuz/lunapark.jpg"
+                      alt=""
+                      className="slide-thumbnail"
+                    />
+                    {/* Slide Thumbnail End */}
+                    {/* Slide Content Start */}
+                    <div className="slide-content d-flex flex-column justify-content-center align-items-start">
+                      {/* Slide Text Start */}
+                      <div className="slide-text">
+                        Konya’nın en büyük Lunapark Eğlence Merkezi’nin Karatay
+                        Şehir Parkı’nda olduğunu biliyor muydunuz.
+                      </div>
+                      {/* Slide Text End */}
+                      {/* Slide Button Start */}
+                      <a
+                        href="/bunlaribiliyormuydunuz"
+                        className="btn slide-btn"
+                      >
+                        Tümünü Göster
+                      </a>
+                      {/* Slide Button End */}
+                    </div>
+                    {/* Slide Content End */}
+                  </div>
+                  {/* Slide End */}
+                  {/* Slide Start */}
+                  <div
+                    className="swiper-slide d-flex swiper-slide-duplicate-prev"
+                    data-swiper-slide-index={3}
+                    style={{ width: 449 }}
+                  >
+                    {/* Slide Thumbnail Start */}
+                    <img
+                      src="https://www.karatay.bel.tr/img/biliyormuydunuz/roma_gozetleme_kulesi.jpg"
+                      alt=""
+                      className="slide-thumbnail"
+                    />
+                    {/* Slide Thumbnail End */}
+                    {/* Slide Content Start */}
+                    <div className="slide-content d-flex flex-column justify-content-center align-items-start">
+                      {/* Slide Text Start */}
+                      <div className="slide-text">
+                        Karatay Bozdağ Milli Parkı’nda Antik Roma İmparatorluğu
+                        tarafından inşa edilmiş 100 adet gözetleme kulesi
+                        kalıntısı bulunduğunu biliyor muydunuz?
+                      </div>
+                      {/* Slide Text End */}
+                      {/* Slide Button Start */}
+                      <a
+                        href="/bunlaribiliyormuydunuz"
+                        className="btn slide-btn"
+                      >
+                        Tümünü Göster
+                      </a>
+                      {/* Slide Button End */}
+                    </div>
+                    {/* Slide Content End */}
+                  </div>
+                  {/* Slide End */}
+                  <div
+                    className="swiper-slide d-flex swiper-slide-duplicate swiper-slide-duplicate-active"
+                    data-swiper-slide-index={0}
+                    style={{ width: 449 }}
+                  >
+                    {/* Slide Thumbnail Start */}
+                    <img
+                      src="https://www.karatay.bel.tr/img/biliyormuydunuz/boncuklu_hoyuk.jpg"
+                      alt=""
+                      className="slide-thumbnail"
+                    />
+                    {/* Slide Thumbnail End */}
+                    {/* Slide Content Start */}
+                    <div className="slide-content d-flex flex-column justify-content-center align-items-start">
+                      {/* Slide Text Start */}
+                      <div className="slide-text">
+                        Karatay Hayıroğlu mahallesinde 10.500 yıllık “Boncuklu
+                        Höyük” isminde eski bir yerleşim olduğunu ve içerisinde
+                        8.500 yıllık kerpiç kalıntılar olduğunu biliyor
+                        muydunuz?
+                      </div>
+                      {/* Slide Text End */}
+                      {/* Slide Button Start */}
+                      <a
+                        href="/bunlaribiliyormuydunuz"
+                        className="btn slide-btn"
+                      >
+                        Tümünü Göster
+                      </a>
+                      {/* Slide Button End */}
+                    </div>
+                    {/* Slide Content End */}
+                  </div>
+                </div>
+                <div className="buttons">
+                  <div
+                    className="next"
+                    tabIndex={0}
+                    role="button"
+                    aria-label="Next slide"
+                  >
+                    <i className="fas fa-angle-right" />
+                  </div>
+                  <div
+                    className="prev"
+                    tabIndex={0}
+                    role="button"
+                    aria-label="Previous slide"
+                  >
+                    <i className="fas fa-angle-left" />
+                  </div>
+                </div>
+                <span
+                  className="swiper-notification"
+                  aria-live="assertive"
+                  aria-atomic="true"
+                />
+              </div>
+              {/* Slide End */}
+            </div>
+          </div>
+          {/* Unknowns Area End */}
+          {/* News & Activity Start */}
+          <div className="row section">
+            {/*div class="col-12 col-md-3 poster-area d-none d-xl-block">
+			<div class="section-title text-left"><span>Yaklaşan Etkinlikler</span></div>                  
+			<div class="swiper-container">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<img class="poster" src="https://www.karatay.bel.tr/assets/img/poster.png" alt="">
+
+						<div class="hover">
+
+							<div class="hover-date"><i class="far fa-calendar-alt"></i>09.06.2019</div>
+
+							<div class="features">
+							<div class="feature">
+
+								<div class="icon-area">
+									<i class="icons icon-24"></i>
+								</div>
+
+								<div class="content-area">
+									<div class="type">Etkinlik Türü</div>
+									<div class="title">Tiyatro</div>
+								</div>
+							</div>
+
+							<div class="feature">
+
+								<div class="icon-area">
+									<i class="icons icon-25"></i>
+								</div>
+
+								<div class="content-area">
+									<div class="type">Etkinlik Adı</div>
+									<div class="title">Milli Mücadele Döneminde Anadolu</div>
+								</div>
+							</div>
+
+							<div class="feature">
+
+								<div class="icon-area">
+									<i class="icons icon-26"></i>
+								</div>
+
+								<div class="content-area">
+									<div class="type">Yer</div>
+									<div class="title">Aziziye Kültür Merkezi</div>
+								</div>
+							</div>
+
+							<a href="" class="details-link"><i class="fas fa-angle-right"></i>Detayları Görüntüle</a>                                  
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="buttons">
+					<div class="button prev"><i class="fas fa-angle-left"></i></div>
+					<div class="button next"><i class="fas fa-angle-right"></i></div>
+				</div>
+			</div>
+		</div*/}
+            <div className="col-12 col-md-12 col-xl-12">
+              {/* Section Title Start */}
+              <div className="section-title">
+                <span>Belediyemizden Haberler</span>
+              </div>
+              {/* Section Title End */}
+              {/* Post List Start */}
+              <div className="row post-list">
+                <div className="col-12 col-md-6">
+                  {/* Post Start */}
+                  <div className="post">
+                    {/* Post Thumbnail Start */}
+                    <a
+                      href="/haberdetay/5395/baskan-hasan-kilcadan-mahalle-ziyaretleri"
+                      className="post-thumbnail-link"
+                    >
+                      <img
+                        src="/haber/resim1/12791/baskan-hasan-kilcadan-mahalle-ziyaretleri.jpg-1200.jpg"
+                        alt="BAŞKAN HASAN KILCA’DAN MAHALLE ZİYARETLERİ"
+                        className="post-thumbnail"
+                      />
+                    </a>
+                    {/* Post Thumbnail End */}
+                    {/* Post Title Start */}
+                    <a
+                      href="/haberdetay/5395/baskan-hasan-kilcadan-mahalle-ziyaretleri"
+                      className="post-title"
+                    >
+                      BAŞKAN HASAN KILCA’DAN MAHALLE ZİYARETLERİ
+                    </a>
+                    {/* Post Title End */}
+                    {/* Post Summary Start */}
+                    <div className="post-summary">
+                      HASAN KILCA YATIRIMLARINI ANLATTI 31 MART İÇİN DESTEK
+                      İSTEDİ KILCA: HİÇBİR HESAP İÇİNE GİRMEDEN KARATAY’IMIZA
+                      HİZMET ETMENİN ÇABASINDAYIZ MEHMET GENÇ: BİZ LAF DEĞİL
+                      İCRAAT SİYASETİ YAPIYORUZ Karatay Belediye Başkanı Hasan
+                      Kılca, AK Parti Karatay İlçe Başkanı Mehmet Genç ile
+                      birlikte İsmil, Ovakavağı ve Hayıroğlu mahallelerini
+                      ziyaret etti. Muhtarların yanı sıra mahalle sakinleriyle
+                      buluşarak belediye olarak bölgeye yapılan yatırımları
+                      anlatan ve yeni dönem projelerinden bahseden Başkan Hasan
+                      Kılca, 31 Mart’ta gerçekleştirilecek yerel seçimler için
+                      de destek istedi. Karatay Belediye Başkanı Hasan Kılca ile
+                      Adalet ve Kalkınma Partisi (AK ...
+                    </div>
+                    {/* Post Summary End */}
+                  </div>
+                  {/* Post End */}
+                </div>
+                <div className="col-6 col-md-3">
+                  {/* Post Start */}
+                  <div className="post small">
+                    {/* Post Thumbnail Start */}
+                    <a
+                      href="/haberdetay/5394/mirac-kandilimiz-mubarek-olsun"
+                      className="post-thumbnail-link"
+                    >
+                      <img
+                        src="/haber/resim1/12790/mirac-kandilimiz-mubarek-olsun.jpg-600.jpg"
+                        alt=""
+                        className="post-thumbnail"
+                      />
+                    </a>
+                    {/* Post Thumbnail End */}
+                    {/* Post Title Start */}
+                    <a
+                      href="/haberdetay/5394/mirac-kandilimiz-mubarek-olsun"
+                      className="post-title"
+                    >
+                      MİRAÇ KANDİLİMİZ MÜBAREK OLSUN
+                    </a>
+                    {/* Post Title End */}
+                  </div>
+                  {/* Post End */}
+                  {/* Post Start */}
+                  <div className="post small">
+                    {/* Post Thumbnail Start */}
+                    <a
+                      href="/haberdetay/5393/24-derslikli-karatay-belediyesi-osman-benliler-ilkokulunun-yapiminda-sona-gelindi"
+                      className="post-thumbnail-link"
+                    >
+                      <img
+                        src="/haber/resim1/12785/24-derslikli-karatay-belediyesi-osman-benliler-ilkokulunun-yapiminda-sona-gelindi.jpg-600.jpg"
+                        alt=""
+                        className="post-thumbnail"
+                      />
+                    </a>
+                    {/* Post Thumbnail End */}
+                    {/* Post Title Start */}
+                    <a
+                      href="/haberdetay/5393/24-derslikli-karatay-belediyesi-osman-benliler-ilkokulunun-yapiminda-sona-gelindi"
+                      className="post-title"
+                    >
+                      24 DERSLİKLİ KARATAY BELEDİYESİ OSMAN BENLİLER
+                      İLKOKULU’NUN YAPIMINDA SONA GELİNDİ
+                    </a>
+                    {/* Post Title End */}
+                  </div>
+                  {/* Post End */}
+                </div>
+                <div className="col-6 col-md-3">
+                  {/* Post Start */}
+                  <div className="post small">
+                    {/* Post Thumbnail Start */}
+                    <a
+                      href="/haberdetay/5392/baskan--kilcadan-kahramanmaras-merkezli-6-subat-depremlerinin-1-yil-donumu-mesaji"
+                      className="post-thumbnail-link"
+                    >
+                      <img
+                        src="/haber/resim1/12781/baskan--kilcadan-kahramanmaras-merkezli-6-subat-depremlerinin-1-yil-donumu-mesaji.jpg-600.jpg"
+                        alt=""
+                        className="post-thumbnail"
+                      />
+                    </a>
+                    {/* Post Thumbnail End */}
+                    {/* Post Title Start */}
+                    <a
+                      href="/haberdetay/5392/baskan--kilcadan-kahramanmaras-merkezli-6-subat-depremlerinin-1-yil-donumu-mesaji"
+                      className="post-title"
+                    >
+                      BAŞKAN KILCA’DAN KAHRAMANMARAŞ MERKEZLİ 6 ŞUBAT
+                      DEPREMLERİNİN 1. YIL DÖNÜMÜ MESAJI
+                    </a>
+                    {/* Post Title End */}
+                  </div>
+                  {/* Post End */}
+                  {/* Post Start */}
+                  <div className="post small">
+                    {/* Post Thumbnail Start */}
+                    <a
+                      href="/haberdetay/5391/merkeze-uzak-3-mahalleye-3-onemli-yatirim"
+                      className="post-thumbnail-link"
+                    >
+                      <img
+                        src="/haber/resim1/12778/merkeze-uzak-3-mahalleye-3-onemli-yatirim.jpg-600.jpg"
+                        alt=""
+                        className="post-thumbnail"
+                      />
+                    </a>
+                    {/* Post Thumbnail End */}
+                    {/* Post Title Start */}
+                    <a
+                      href="/haberdetay/5391/merkeze-uzak-3-mahalleye-3-onemli-yatirim"
+                      className="post-title"
+                    >
+                      MERKEZE UZAK 3 MAHALLEYE 3 ÖNEMLİ YATIRIM
+                    </a>
+                    {/* Post Title End */}
+                  </div>
+                  {/* Post End */}
+                </div>
+              </div>
+              {/* Post list End */}
+            </div>
+          </div>
+          {/* News & Activity End */}
+          {/* E-City Works Start */}
+          <div className="ecity section">
+            {/* Section Title Start */}
+            <div className="section-title">
+              <span>E-Belediye Hizmetleri</span>{" "}
+              <div className="pagination swiper-pagination-clickable swiper-pagination-bullets">
+                <span
+                  className="swiper-pagination-bullet swiper-pagination-bullet-active"
+                  tabIndex={0}
+                  role="button"
+                  aria-label="Go to slide 1"
+                />
+                <span
+                  className="swiper-pagination-bullet"
+                  tabIndex={0}
+                  role="button"
+                  aria-label="Go to slide 2"
+                />
+                <span
+                  className="swiper-pagination-bullet"
+                  tabIndex={0}
+                  role="button"
+                  aria-label="Go to slide 3"
+                />
+                <span
+                  className="swiper-pagination-bullet"
+                  tabIndex={0}
+                  role="button"
+                  aria-label="Go to slide 4"
+                />
+                <span
+                  className="swiper-pagination-bullet"
+                  tabIndex={0}
+                  role="button"
+                  aria-label="Go to slide 5"
+                />
+                <span
+                  className="swiper-pagination-bullet"
+                  tabIndex={0}
+                  role="button"
+                  aria-label="Go to slide 6"
+                />
+                <span
+                  className="swiper-pagination-bullet"
+                  tabIndex={0}
+                  role="button"
+                  aria-label="Go to slide 7"
+                />
+              </div>
+            </div>
+            {/* Section Title End */}
+            <div className="swiper-container swiper-container-initialized swiper-container-horizontal">
+              <div
+                className="swiper-wrapper"
+                style={{
+                  transform: "translate3d(-698px, 0px, 0px)",
+                  transitionDuration: "0ms"
+                }}
+              >
+                <div
+                  className="swiper-slide swiper-slide-duplicate"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/Ode/tahsilat.aspx', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={3}
+                >
+                  <i className="icons icon-11" />
+                  <span>Tahsilat İşlemleri</span>
+                </div>
+                <div
+                  className="swiper-slide swiper-slide-duplicate"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/EmlakRayicDeger/syRayicDegerParam.aspx', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={4}
+                >
+                  <i className="icons icon-12" />
+                  <span>Arsa Rayiç Değerleri</span>
+                </div>
+                <div
+                  className="swiper-slide swiper-slide-duplicate"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/CevreTemizlikTarife.aspx', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={5}
+                >
+                  <i className="icons icon-13" />
+                  <span>Çevre Temizlik Tarifeleri</span>
+                </div>
+                <div
+                  className="swiper-slide swiper-slide-duplicate swiper-slide-prev"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/IlanReklamTarife.aspx', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={6}
+                >
+                  <i className="icons icon-14" />
+                  <span>İlan Reklam Tarifeleri</span>
+                </div>
+                <div
+                  className="swiper-slide swiper-slide-active"
+                  onclick="window.open('https://sosyalyardim.karatay.bel.tr', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={0}
+                >
+                  <img
+                    src="assets/img/sosyal_yardim_ikon.png"
+                    alt="Sosyal Yardım Başvurusu"
+                  />
+                  <span>Sosyal Yardım Başvurusu</span>
+                </div>
+                <div
+                  className="swiper-slide swiper-slide-next"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/KayitliBeyanlar/', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={1}
+                >
+                  <i className="icons icon-9" />
+                  <span>Kayıtlı Beyanlar</span>
+                </div>
+                <div
+                  className="swiper-slide"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/EvrakSorgu/', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={2}
+                >
+                  <i className="icons icon-10" />
+                  <span>Evrak Sorgulama</span>
+                </div>
+                <div
+                  className="swiper-slide"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/Ode/tahsilat.aspx', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={3}
+                >
+                  <i className="icons icon-11" />
+                  <span>Tahsilat İşlemleri</span>
+                </div>
+                <div
+                  className="swiper-slide"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/EmlakRayicDeger/syRayicDegerParam.aspx', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={4}
+                >
+                  <i className="icons icon-12" />
+                  <span>Arsa Rayiç Değerleri</span>
+                </div>
+                <div
+                  className="swiper-slide"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/CevreTemizlikTarife.aspx', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={5}
+                >
+                  <i className="icons icon-13" />
+                  <span>Çevre Temizlik Tarifeleri</span>
+                </div>
+                <div
+                  className="swiper-slide swiper-slide-duplicate-prev"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/IlanReklamTarife.aspx', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={6}
+                >
+                  <i className="icons icon-14" />
+                  <span>İlan Reklam Tarifeleri</span>
+                </div>
+                <div
+                  className="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
+                  onclick="window.open('https://sosyalyardim.karatay.bel.tr', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={0}
+                >
+                  <img
+                    src="assets/img/sosyal_yardim_ikon.png"
+                    alt="Sosyal Yardım Başvurusu"
+                  />
+                  <span>Sosyal Yardım Başvurusu</span>
+                </div>
+                <div
+                  className="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/KayitliBeyanlar/', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={1}
+                >
+                  <i className="icons icon-9" />
+                  <span>Kayıtlı Beyanlar</span>
+                </div>
+                <div
+                  className="swiper-slide swiper-slide-duplicate"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/EvrakSorgu/', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={2}
+                >
+                  <i className="icons icon-10" />
+                  <span>Evrak Sorgulama</span>
+                </div>
+                <div
+                  className="swiper-slide swiper-slide-duplicate"
+                  onclick="window.open('https://tahsilat.karatay.bel.tr/Ode/tahsilat.aspx', '_blank')"
+                  style={{ width: "164.5px", marginRight: 10 }}
+                  data-swiper-slide-index={3}
+                >
+                  <i className="icons icon-11" />
+                  <span>Tahsilat İşlemleri</span>
+                </div>
+              </div>
+              <span
+                className="swiper-notification"
+                aria-live="assertive"
+                aria-atomic="true"
+              />
+            </div>
+          </div>
+          {/* E-City Works End */}
+          {/* Photo & Video Start */}
+          <div className="row section photo-video-area">
+            <div className="col-sm-12 col-md-4 pr-2">
+              {/* Section Title Start */}
+              <div className="section-title text-left">
+                <span>Başkan'dan</span>
+              </div>
+              {/* Section Title End */}
+              <div className="row ">
+                <div
+                  className="twitter-timeline twitter-timeline-rendered"
+                  style={{
+                    display: "flex",
+                    width: 375,
+                    maxWidth: "100%",
+                    marginTop: 0,
+                    marginBottom: 0
+                  }}
+                >
+                  <iframe
+                    id="twitter-widget-0"
+                    scrolling="no"
+                    frameBorder={0}
+                    allowTransparency="true"
+                    allowFullScreen="true"
+                    className=""
+                    style={{
+                      position: "static",
+                      visibility: "visible",
+                      width: 231,
+                      height: 445,
+                      display: "block",
+                      flexGrow: 1
+                    }}
+                    title="Twitter Timeline"
+                    src="https://syndication.twitter.com/srv/timeline-profile/screen-name/hkilca?creatorScreenName=KaratayBelediye&dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideBorder=false&hideFooter=false&hideHeader=false&hideScrollBar=false&lang=tr&maxHeight=445px&origin=https%3A%2F%2Fwww.karatay.bel.tr%2F&sessionId=b4876516070810f756e8b3019b85abd32f16dc8c&showHeader=true&showReplies=false&siteScreenName=KaratayBelediye&transparent=false&widgetsVersion=2615f7e52b7e0%3A1702314776716"
+                  />
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-12 col-md-8 pr-2">
+              {/* Section Title Start */}
+              <div className="section-title text-left">
+                <span>Fotoğraflarla Karatay</span>
+              </div>
+              {/* Section Title End */}
+              <div className="row gallery">
+                <div className="col-12 col-md-3">
+                  <a
+                    href="https://www.karatay.bel.tr/img/karatay/adalet_parki.jpg"
+                    className="image"
+                  >
+                    <img
+                      src="https://www.karatay.bel.tr/img/karatay/t/adalet_parki.jpg"
+                      alt=""
+                    />
+                    <span>
+                      <i className="icons icon-16" />
+                      Görüntüle
+                    </span>
+                  </a>
+                </div>
+                <div className="col-12 col-md-3">
+                  <a
+                    href="https://www.karatay.bel.tr/img/karatay/ismil_lale_tarlasi.jpg"
+                    className="image"
+                  >
+                    <img
+                      src="https://www.karatay.bel.tr/img/karatay/t/ismil_lale_tarlasi.jpg"
+                      alt=""
+                    />
+                    <span>
+                      <i className="icons icon-16" />
+                      Görüntüle
+                    </span>
+                  </a>
+                </div>
+                <div className="col-12 col-md-3">
+                  <a
+                    href="https://www.karatay.bel.tr/img/karatay/karatay_medresesi.jpg"
+                    className="image"
+                  >
+                    <img
+                      src="https://www.karatay.bel.tr/img/karatay/t/karatay_medresesi.jpg"
+                      alt=""
+                    />
+                    <span>
+                      <i className="icons icon-16" />
+                      Görüntüle
+                    </span>
+                  </a>
+                </div>
+                <div className="col-12 col-md-3">
+                  <a
+                    href="https://www.karatay.bel.tr/img/karatay/karatay_sehir_parki.jpg"
+                    className="image"
+                  >
+                    <img
+                      src="https://www.karatay.bel.tr/img/karatay/t/karatay_sehir_parki.jpg"
+                      alt=""
+                    />
+                    <span>
+                      <i className="icons icon-16" />
+                      Görüntüle
+                    </span>
+                  </a>
+                </div>
+                <div className="col-12 col-md-3">
+                  <a
+                    href="https://www.karatay.bel.tr/img/karatay/mevlana.jpg"
+                    className="image"
+                  >
+                    <img
+                      src="https://www.karatay.bel.tr/img/karatay/t/mevlana.jpg"
+                      alt=""
+                    />
+                    <span>
+                      <i className="icons icon-16" />
+                      Görüntüle
+                    </span>
+                  </a>
+                </div>
+                <div className="col-12 col-md-3">
+                  <a
+                    href="https://www.karatay.bel.tr/img/karatay/mevlana_gunduz.jpg"
+                    className="image"
+                  >
+                    <img
+                      src="https://www.karatay.bel.tr/img/karatay/t/mevlana_gunduz.jpg"
+                      alt=""
+                    />
+                    <span>
+                      <i className="icons icon-16" />
+                      Görüntüle
+                    </span>
+                  </a>
+                </div>
+                <div className="col-12 col-md-3">
+                  <a
+                    href="https://www.karatay.bel.tr/img/karatay/mevlana_gece.jpg"
+                    className="image"
+                  >
+                    <img
+                      src="https://www.karatay.bel.tr/img/karatay/t/mevlana_gece.jpg"
+                      alt=""
+                    />
+                    <span>
+                      <i className="icons icon-16" />
+                      Görüntüle
+                    </span>
+                  </a>
+                </div>
+                <div className="col-12 col-md-3">
+                  <a
+                    href="https://www.karatay.bel.tr/img/projeler/t/lavanta/lavanta2.jpg"
+                    className="image"
+                  >
+                    <img
+                      src="https://www.karatay.bel.tr/img/projeler/t/lavanta/lavanta2.jpg"
+                      alt=""
+                    />
+                    <span>
+                      <i className="icons icon-16" />
+                      Görüntüle
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          {/* Photo & Video End */}
+          <div className="col-lg-12 col-md-12 col-xs-12">
+            {/* Projects Start */}
+            <div className="section projects-area">
+              {/* Section Title Start */}
+              <div className="section-title text-center">
+                <span>
+                  <img
+                    className="slide-thumbnail"
+                    src="https://www.karatay.bel.tr/assets/img/karatay_tv_logo.png"
+                    alt="Karatay TV"
+                  />
+                </span>{" "}
+                <a
+                  href="https://www.youtube.com/c/KaratayBelediye"
+                  className="btn"
+                  target="_blank"
+                >
+                  Tüm Videolar
+                </a>
+              </div>
+              {/* Section Title End */}
+              {/* Slide Start */}
+              <div className="slide-area">
+                <div className="swiper-container swiper-container-initialized swiper-container-horizontal">
+                  <div
+                    className="swiper-wrapper"
+                    style={{
+                      transform: "translate3d(-673px, 0px, 0px)",
+                      transitionDuration: "0ms"
+                    }}
+                  >
+                    <a
+                      href="https://www.youtube.com/watch?v=RFGGgO9IIF0"
+                      className="image popup-youtube swiper-slide swiper-slide-duplicate"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={6}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 7.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=Hi-51b3MD5U"
+                      className="image popup-youtube swiper-slide swiper-slide-duplicate"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={7}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 8.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=roqZ0Rx2Y6g"
+                      className="image popup-youtube swiper-slide swiper-slide-duplicate swiper-slide-prev"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={8}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 9.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=77IdamBxMdA"
+                      className="image popup-youtube swiper-slide swiper-slide-active"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={0}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 1.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=NE40Eq-vhwc"
+                      className="image popup-youtube swiper-slide swiper-slide-next"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={1}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 2.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=npzUhi2nouw"
+                      className="image popup-youtube swiper-slide"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={2}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 3.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=vGDekEhIJLk"
+                      className="image popup-youtube swiper-slide"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={3}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 4.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=pMH7_hetQwg"
+                      className="image popup-youtube swiper-slide"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={4}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 5.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=5biOKEC_b9U"
+                      className="image popup-youtube swiper-slide"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={5}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 6.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=RFGGgO9IIF0"
+                      className="image popup-youtube swiper-slide"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={6}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 7.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=Hi-51b3MD5U"
+                      className="image popup-youtube swiper-slide"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={7}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 8.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=roqZ0Rx2Y6g"
+                      className="image popup-youtube swiper-slide swiper-slide-duplicate-prev"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={8}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 9.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=77IdamBxMdA"
+                      className="image popup-youtube swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={0}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 1.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=NE40Eq-vhwc"
+                      className="image popup-youtube swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={1}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 2.Bölüm
+                      </div>
+                    </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=npzUhi2nouw"
+                      className="image popup-youtube swiper-slide swiper-slide-duplicate"
+                      style={{ width: "209.333px", marginRight: 15 }}
+                      data-swiper-slide-index={2}
+                    >
+                      <img
+                        className="slide-thumbnail"
+                        src="https://www.karatay.bel.tr/assets/img/mihrimah-karatay.png"
+                        alt=""
+                      />
+                      <div className="slide-title">
+                        Mihrimah Karatay 3.Bölüm
+                      </div>
+                    </a>
+                  </div>
+                  <span
+                    className="swiper-notification"
+                    aria-live="assertive"
+                    aria-atomic="true"
+                  />
+                </div>
+                {/* Buttons Start */}
+                <div
+                  className="button prev"
+                  tabIndex={0}
+                  role="button"
+                  aria-label="Previous slide"
+                >
+                  <i className="fas fa-angle-left" />
+                </div>
+                <div
+                  className="button next"
+                  tabIndex={0}
+                  role="button"
+                  aria-label="Next slide"
+                >
+                  <i className="fas fa-angle-right" />
+                </div>
+                {/* Buttons End */}
+              </div>
+              {/* Slide End */}
+            </div>
+            {/* Projects End */}
+          </div>
+          {/* <div class="col-12 col-md-12 col-xl-12">
+			
+			<div class="section-title"><span>Karatay TV</span></div>
+			       
+			
+			
+			<div class="row post-list">
+				
+				<div class="col-12 col-md-6">
+					
+					<div class="post">
+						
+						<a href="#" class="post-thumbnail-link"><img src="#" alt="Başlık" class="post-thumbnail"></a>
+						
+
+						
+						<a href="#" class="post-title"></a>
+						
+
+						
+						<div class="post-summary"></div>
+						
+					</div>
+					
+				</div>
+				
+				
+					<div class="col-6 col-md-3">
+					
+						
+						<div class="post small">
+							
+							<a href="#" class="post-thumbnail-link"><img src="#" alt="" class="post-thumbnail"></a>
+							
+
+							
+							<a href="#" class="post-title">Başlık</a>
+							
+						</div>
+						  
+					
+					</div>
+					
+			</div>
+			
+		</div> */}
+          <br />
+        </main>
+        {/* MAIN END */}
+        {/* FOOTER START */}
+        <footer id="footer">
+          {/* Pharmacies Start */}
+          <div className="pharmacies-area">
+            {/* Map Start */}
+            <div className="map">
+              {/* Button Start */}
+              <div className="btn-area">
+                <a
+                  href="https://www.turkiye.gov.tr/konya-buyuksehir-belediyesi-nobetci-eczane-sorgulama"
+                  className="btn"
+                  target="_blank"
+                >
+                  Tüm Nöbetçi Eczaneler
+                </a>
+              </div>
+              {/* Button End */}
+            </div>
+            {/* Map End */}
+            <div className="pharmacy-slide">
+              <div className="d-flex justify-content-end">
+                <div className="col-12 col-lg-10 pharmacy-box">
+                  <div className="buttons">
+                    <div
+                      className="button prev"
+                      tabIndex={0}
+                      role="button"
+                      aria-label="Previous slide"
+                    >
+                      <i className="fas fa-angle-left" />
+                    </div>
+                    <div
+                      className="button next"
+                      tabIndex={0}
+                      role="button"
+                      aria-label="Next slide"
+                    >
+                      <i className="fas fa-angle-right" />
+                    </div>
+                  </div>
+                  <div className="swiper-container swiper-container-initialized swiper-container-horizontal">
+                    <div
+                      className="swiper-wrapper"
+                      style={{
+                        transitionDuration: "0ms",
+                        transform: "translate3d(-718px, 0px, 0px)"
+                      }}
+                    >
+                      <div
+                        className="swiper-slide swiper-slide-duplicate"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={22}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          YASİR ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          ALAYLAR BİR MAHALLESİ -SEYDİŞEHİR
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide swiper-slide-duplicate"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={23}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          YENİYOL ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          AŞKAN MAHALLESİ -MERAM
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide swiper-slide-duplicate swiper-slide-prev"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={24}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          YEŞİL ÇELTİK ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          FATİH MAHALLESİ -ÇELTİK
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide swiper-slide-active"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={0}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          ALPEREN ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          AZİZİYE MAHALLESİ -KARATAY
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide swiper-slide-next"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={1}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          ATASEVEN ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          YUKARI MAHALLESİ -BOZKIR
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={2}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          AYDINLI ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          DOĞU İSTASYON MAHALLESİ -SARAYÖNÜ
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={3}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          BAŞKENT ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          AKŞEMSETTİN MAHALLESİ -SELÇUKLU
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={4}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          BETÜL ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          BARDAKÇI MAHALLESİ -ÇUMRA
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={5}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          CAN ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          FATİH MAHALLESİ -ILGIN
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={6}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          ÇOBANOĞLU ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          ATÇEKEN MAHALLESİ -CİHANBEYLİ
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={7}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          EDA ALTINDAĞ ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          AKABE MAHALLESİ -KARATAY
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={8}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          FIRAT ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          CAMİKEBİR MAHALLESİ -KULU
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={9}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          GÖKPINAR ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          KARATAŞ MAHALLESİ -YUNAK
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={10}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          GÜNEŞ ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          TEPEBAŞI MAHALLESİ -KADINHANI
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={11}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          İLHAN ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          FATİH MAHALLESİ -SELÇUKLU
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={12}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          KARACA ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          YARENLER MAHALLESİ -AKŞEHİR
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={13}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          KULU CİHAN ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          HÜSAMETTİN ÇELEBİ MAHALLESİ -SELÇUKLU
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={14}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          MAYIS ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          ŞEYH ŞAMİL MAHALLESİ -SELÇUKLU
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={15}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          ÖZ ŞAFAK ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          SANCAK MAHALLESİ -SELÇUKLU
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={16}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          ŞİRİN ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          KONEVİ MAHALLESİ -MERAM
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={17}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          UMUT ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          YENİCEOBA MAHALLESİ -CİHANBEYLİ
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={18}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          ÜMRAN ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          FERİTPAŞA MAHALLESİ -SELÇUKLU
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={19}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          ÜZMEZ ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          EVSAT MAHALLESİ -BEYŞEHİR
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={20}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          VİZYON ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          YAZIR MAHALLESİ -SELÇUKLU
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={21}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          YALÇINÖZ ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          ULUS MAHALLESİ -KARAPINAR
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={22}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          YASİR ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          ALAYLAR BİR MAHALLESİ -SEYDİŞEHİR
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={23}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          YENİYOL ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          AŞKAN MAHALLESİ -MERAM
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide swiper-slide-duplicate-prev"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={24}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          YEŞİL ÇELTİK ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          FATİH MAHALLESİ -ÇELTİK
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={0}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          ALPEREN ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          AZİZİYE MAHALLESİ -KARATAY
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={1}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          ATASEVEN ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          YUKARI MAHALLESİ -BOZKIR
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                      <div
+                        className="swiper-slide swiper-slide-duplicate"
+                        style={{ width: "239.333px" }}
+                        data-swiper-slide-index={2}
+                      >
+                        {/* Box Title Start */}
+                        <div className="box-title">Nöbetçi Eczane</div>
+                        {/* Box Title End */}
+                        {/* Pharmacy Title Start */}
+                        <a href="#" className="pharmacy-title">
+                          AYDINLI ECZANESİ
+                        </a>
+                        {/* Pharmacy Title End */}
+                        {/* Pharmacy Address Start */}
+                        <div className="pharmacy-address">
+                          DOĞU İSTASYON MAHALLESİ -SARAYÖNÜ
+                        </div>
+                        {/* Pharmacy Address End */}
+                      </div>
+                    </div>
+                    <span
+                      className="swiper-notification"
+                      aria-live="assertive"
+                      aria-atomic="true"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {/* Pharmacies End */}
+          {/* Address & Form Area Start */}
+          <div className="address-form-area">
+            <div className="row align-items-center">
+              <div className="col-12 col-md-3 d-none d-lg-block">
+                <a className="text-center d-block" href="#">
+                  <img
+                    src="https://www.karatay.bel.tr/assets/img/logo-big.png"
+                    alt=""
+                    className="logo"
+                  />
+                </a>
+              </div>
+              <div className="col-12 col-md-6 col-lg-4">
+                <div className="nav flex-column">
+                  <div className="nav-item">
+                    <i className="icons icon-20" />
+                    Akçeşme Mahallesi, Garaj Cd. No: 5, 42020 Karatay/Konya
+                  </div>
+                  <div className="nav-item">
+                    <i className="icons icon-21" />
+                    <a href="tel: 444 9 332">444 9 332</a>
+                  </div>
+                  <div className="nav-item">
+                    <i className="icons icon-22" />
+                    <a href="mailto:iletisim@karatay.bel.tr">
+                      iletisim@karatay.bel.tr
+                    </a>
+                  </div>
+                  <div className="nav-item">
+                    <i className="icons icon-21" />
+                    <a
+                      href="https://web.whatsapp.com/send?phone=+905323234030"
+                      target="_blank"
+                    >
+                      WhatsApp: (0532) 323 40 30
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="col-12 col-md-6 col-lg-5 form-area">
+                {/* Form Title Start */}
+                <div className="form-title">Bize Ulaşın</div>
+                {/* Form Title End */}
+                <form action="">
+                  <div className="form-group">
+                    <input
+                      type="text"
+                      className="form-control"
+                      placeholder="Adınız ve Soyadınız"
+                    />
+                  </div>
+                  <div className="form-group">
+                    <input
+                      type="text"
+                      className="form-control"
+                      placeholder="Telefon Numaranız"
+                    />
+                  </div>
+                  <div className="form-group">
+                    <textarea
+                      name=""
+                      id=""
+                      cols={30}
+                      rows={10}
+                      className="form-control"
+                      placeholder="Mesajınız"
+                      defaultValue={""}
+                    />
+                  </div>
+                  <div className="form-group text-right">
+                    <button className="btn">
+                      <i className="icons icon-23" />
+                      Mesaj Gönder
+                    </button>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+          {/* Address & Form Area End */}
+          {/* Menu Area Start */}
+          <div className="menu-area">
+            <div className="row">
+              <div className="col-12 col-md-4 col-lg-2">
+                <div className="menu-title">
+                  <span>Kurumsal</span>
+                </div>
+                <ul className="nav flex-column menu">
+                  <li className="nav-item">
+                    <a href="/kurumsal/baskan" className="nav-link">
+                      Başkan
+                    </a>
+                    <a href="/kurumsal/baskanyardimcilari" className="nav-link">
+                      Başkan Yardımcıları
+                    </a>
+                    <a href="/kurumsal/meclisuyeleri" className="nav-link">
+                      Meclis Üyeleri
+                    </a>
+                    <a href="/kurumsal/encumenuyeleri" className="nav-link">
+                      Encümen Üyeleri
+                    </a>
+                    <a href="/kurumsal/mudurler" className="nav-link">
+                      Birim Müdürleri
+                    </a>
+                    <a href="/kurumsal/meclisuyeleri" className="nav-link">
+                      Meclis Üyeleri
+                    </a>
+                    <a href="/kurumsal/kurumsal-sema" className="nav-link">
+                      Kurumsal Şema
+                    </a>
+                    <a href="/kurumsal/logomuz" className="nav-link">
+                      Logomuz
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div className="col-12 col-md-4 col-lg-2">
+                <div className="menu-title">
+                  <span>Bilgi</span>
+                </div>
+                <ul className="nav flex-column menu">
+                  <li className="nav-item">
+                    {/* <a href="/haberler" class="nav-link">Haberler</a> */}
+                    {/*a href="/iletisim" class="nav-link">İletişim</a*/}
+                    <a href="/birim-dosyalar" className="nav-link">
+                      Dosyalar
+                    </a>
+                    <a href="/ihale-ve-duyurular" className="nav-link">
+                      İhale ve Duyurular
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div className="col-12 col-md-4 col-lg-2">
+                <div className="menu-title">
+                  <span>Haberler</span>
+                </div>
+                <ul className="nav flex-column menu">
+                  <li className="nav-item">
+                    <a href="/haberler" className="nav-link">
+                      Belediyemizden Haberler
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div className="col-12 col-md-4 col-lg-2">
+                <div className="menu-title">
+                  <span>Hizmetler</span>
+                </div>
+                <ul className="nav flex-column menu">
+                  <li className="nav-item">
+                    <a href="/evlilikislemleri" className="nav-link">
+                      Evlilik İşlemleri
+                    </a>
+                    <a href="/hosgeldinbebek" className="nav-link">
+                      Hoşgeldin Bebek
+                    </a>
+                    <a href="/arabuluculuk" className="nav-link">
+                      Arabuluculuk
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div className="col-12 col-md-4 col-lg-2">
+                <div className="menu-title">
+                  <span>Karatay</span>
+                </div>
+                <ul className="nav flex-column menu">
+                  <li className="nav-item">
+                    <a href="/muhtarlarimiz" className="nav-link">
+                      Muhtarlarımız
+                    </a>
+                    <a href="/mevlana" className="nav-link">
+                      Mevlana
+                    </a>
+                    <a href="/kardessehirler" className="nav-link">
+                      Kardeş Şehirler
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div className="col-12 col-md-4 col-lg-2">
+                <div className="menu-title">
+                  <span>E-Belediye</span>
+                </div>
+                <ul className="nav flex-column menu">
+                  {/* <li class="nav-item">
+									<a href="https://tahsilat.karatay.bel.tr/maas/maaskullanicigiris.aspx" class="nav-link" target="_blank">E-Bordro</a>
+								</li> */}
+                  <li className="nav-item">
+                    <a
+                      href="https://tahsilat.karatay.bel.tr/Ode/direkttahsilat.aspx"
+                      className="nav-link"
+                    >
+                      E-Belediye
+                    </a>
+                    {/* <a href="http://kbs.karatay.bel.tr/adaparselsorgula/" target="_blank" class="nav-link">E-İmar</a> */}
+                    <a
+                      href="http://ebys.karatay.bel.tr/envision/Validate_Doc.aspx"
+                      target="_blank"
+                      className="nav-link"
+                    >
+                      E-İmza Doğrula
+                    </a>
+                    <a href="/imarprojeyukle" className="nav-link">
+                      İmar Proje Yükle
+                    </a>
+                    <a
+                      href="http://keos.karatay.bel.tr/imardurumu/index.aspx"
+                      target="_blank"
+                      className="nav-link"
+                    >
+                      İmar Durumu
+                    </a>
+                    <a
+                      href="https://kbs.konya.bel.tr/#/rehber/askiilce@KARATAY"
+                      target="_blank"
+                      className="nav-link"
+                    >
+                      E-İmar Planı Askı Listesi (Haritalı)
+                    </a>
+                    <a
+                      href="https://imarportali.konya.bel.tr/#/askiSozel?askiilce=KARATAY"
+                      target="_blank"
+                      className="nav-link"
+                    >
+                      E-İmar Planı Askı Listesi
+                    </a>
+                    <a
+                      href="https://sosyalyardim.karatay.bel.tr"
+                      target="_blank"
+                      className="nav-link"
+                    >
+                      Sosyal Yardım Başvuru Formu
+                    </a>
+                    <a
+                      href="https://kamim.karatay.bel.tr"
+                      target="_blank"
+                      className="nav-link"
+                    >
+                      Kamim (Muhtarlık İletişim Merkezi)
+                    </a>
+                    <a
+                      href="https://tahsilat.karatay.bel.tr/maas/maaskullanicigiris.aspx"
+                      target="_blank"
+                      className="nav-link"
+                    >
+                      E-Bordro
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          {/* Menu Area End */}
+          {/* Copyright Area Start */}
+          <div className="copyright-area">
+            © Tüm Hakları Saklıdır 2023 | Karatay Belediyesi - Bilgi İşlem
+            Müdürlüğü
+            <br />
+            <img
+              alt=""
+              width="75px"
+              className="img-fluid"
+              src="https://www.karatay.bel.tr/assets/img/tse_covid.svg"
+            />
+          </div>
+          {/* Copyright Area End */}
+        </footer>
+        {/* FOOTER END */}
+        {/* Scroll Up Start */}
+        <div className="scroll-box">
+          <div className="scroll-up">
+            <i className="fas fa-angle-up" />
+            Yukarı Çık
+          </div>
+        </div>
+        {/* Scroll Up End */}
+      </div>
+      {/* BG End */}
+    </div>
+    <div
+      className="modal fade"
+      id="sayfa-hazirlaniyor"
+      tabIndex={-1}
+      role="dialog"
+      aria-labelledby="exampleModalLabel"
+      aria-hidden="true"
+    >
+      <div className="modal-dialog modal-dialog-centered" role="document">
+        <div className="modal-content">
+          <div className="modal-body">
+            <center>
+              <p>
+                <i className="fas fa-cog fa-spin fa-4x" />
+              </p>
+              <h3>Sayfa Yapım Aşamasında</h3>
+              <p>
+                (Bu sayfa hazırlanana kadar diğer projelerimizi
+                inceleyebilirsiniz.)
+              </p>
+            </center>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {/* Mobil Menü */}
+  {/* Modal */}
+  {/* Scripts */}
+  <div className="mm-wrapper__blocker mm-slideout">
+    <a href="#mm-0">
+      <span className="mm-sronly">Close menu</span>
+    </a>
+  </div>
+  <iframe
+    scrolling="no"
+    frameBorder={0}
+    allowTransparency="true"
+    src="https://platform.twitter.com/widgets/widget_iframe.2f70fb173b9000da126c79afe2098f02.html?origin=https%3A%2F%2Fwww.karatay.bel.tr"
+    title="Twitter settings iframe"
+    style={{ display: "none" }}
+  />
+  <iframe
+    id="rufous-sandbox"
+    scrolling="no"
+    frameBorder={0}
+    allowTransparency="true"
+    allowFullScreen="true"
+    style={{
+      position: "absolute",
+      visibility: "hidden",
+      display: "none",
+      width: 0,
+      height: 0,
+      padding: 0,
+      border: "none"
+    }}
+    title="Twitter analytics iframe"
+  />
+</>
